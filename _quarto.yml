@@ -5,10 +5,11 @@ project:
 website:
   navbar:
     title: "Felipe Ruiz Bruzzone"
+    background: primary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - CV.qmd
 
 format:
   html:

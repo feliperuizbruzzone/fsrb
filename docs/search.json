@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa.\nEn términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero."
+  },
+  {
+    "objectID": "CV.html#presentación-general",
+    "href": "CV.html#presentación-general",
+    "title": "Curriculum",
+    "section": "",
+    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa.\nEn términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero."
+  },
+  {
+    "objectID": "CV.html#overview",
+    "href": "CV.html#overview",
+    "title": "Curriculum",
+    "section": "Overview",
+    "text": "Overview\nIn thematic terms my research interests lie at the intersection between sociology and economics. I am particularly interested in a research agenda that links the empirical study of accumulation and growth patterns with the analysis of capitalist class differentiation. I have extensive experience leading quantitative-oriented socio-economic research projects.\nIn technical terms, I have a strong background in the area of Data Science. In 2019 I participated as co-author of the publication RStudio for Descriptive Statistics in the Social Sciences. Since 2023 I am a certified instructor in Data Science using R (The Carpentries) and in 2024 I completed the professional specialization in Data Science (John Hopkins University). I have participated as a lecturer in the area of quantitative methodology and programming in R in different universities (undergraduate and postgraduate), both in Chile and abroad."
   },
   {
     "objectID": "index.html",

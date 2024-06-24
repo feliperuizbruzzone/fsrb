@@ -3,17 +3,18 @@ title: "Felipe Ruiz Bruzzone"
 image: media/perfil-liviana.png
 toc: false
 about:
-  template: solana
+  template: trestles
   image-shape: round
-  links: 
+  links:
+    - text: Gmail
+      href: mailto::felipe.ruiz@ug.uchile.cl
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Felipe-Ruiz-13     
     - text: LinkedIn
       href: https://www.linkedin.com/in/felipe-stefano-ruiz-bruzzone-71b068169/
     - text: GitHub
       href: https://github.com/feliperuizbruzzone
-    - text: Gmail
-      href: mailto::felipe.ruiz@ug.uchile.cl
-    - text: ResearchGate
-      href: https://www.researchgate.net/profile/Felipe-Ruiz-13  
+
 ---
 # Presentación
 
