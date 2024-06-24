@@ -1,11 +1,15 @@
 ---
-title: "fsrb"
+title: "Felipe Ruiz Bruzzone"
 ---
+# Presentación
+¡Hola! Este sitio funciona principalmente como repositorio de mis actividades; tanto en el plano académico, profesional como en relación a otras actividades que me interesan. 
 
-This is a Quarto website.
+Recorriendo las secciones podrás acceder a una breve presentación sobre mi perfil, materiales de apoyo para mis cursos, principales publicaciones, entre otras.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Acerca de mí
 
-```{r}
-1 + 1
-```
+De formación soy Sociólogo (Universidad de Chile) y profesionalmente me he especializado en el área de la Ciencia de Datos.
+
+En paralelo he seguido una carrera de formación académica. Entre 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile. Actualmente curso el Doctorado en Ciencias Sociales de la Universidad de Chile gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025). 
+
+Me involucro activamente en el debate público participando como investigador en la [Fundación Nodo XXI](https://www.nodoxxi.cl/).
