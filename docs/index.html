@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -71,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -107,53 +106,53 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#presentación" id="toc-presentación" class="nav-link active" data-scroll-target="#presentación">Presentación</a></li>
-  <li><a href="#acerca-de-mí" id="toc-acerca-de-mí" class="nav-link" data-scroll-target="#acerca-de-mí">Acerca de mí</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-solana column-body content">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Felipe Ruiz Bruzzone</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
-</header>
-
-
+</header> <div class="about-links">
+  <a href="https://www.linkedin.com/in/felipe-stefano-ruiz-bruzzone-71b068169/" class="about-link" rel="" target="">
+     <span class="about-link-text">LinkedIn</span>
+  </a>
+  <a href="https://github.com/feliperuizbruzzone" class="about-link" rel="" target="">
+     <span class="about-link-text">GitHub</span>
+  </a>
+  <a href="mailto::felipe.ruiz@ug.uchile.cl" class="about-link" rel="" target="">
+     <span class="about-link-text">Gmail</span>
+  </a>
+  <a href="https://www.researchgate.net/profile/Felipe-Ruiz-13" class="about-link" rel="" target="">
+     <span class="about-link-text">ResearchGate</span>
+  </a>
+</div>
+      <div class="about-contents"><main class="content" id="quarto-document-content">
 <section id="presentación" class="level1">
 <h1>Presentación</h1>
 <p>¡Hola! Este sitio funciona principalmente como repositorio de mis actividades; tanto en el plano académico, profesional como en relación a otras actividades que me interesan.</p>
 <p>Recorriendo las secciones podrás acceder a una breve presentación sobre mi perfil, materiales de apoyo para mis cursos, principales publicaciones, entre otras.</p>
+<hr>
 </section>
 <section id="acerca-de-mí" class="level1">
 <h1>Acerca de mí</h1>
 <p>De formación soy Sociólogo (Universidad de Chile) y profesionalmente me he especializado en el área de la Ciencia de Datos.</p>
-<p>En paralelo he seguido una carrera de formación académica. Entre 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile. Actualmente curso el Doctorado en Ciencias Sociales de la Universidad de Chile gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025).</p>
+<p>En paralelo he seguido una carrera de formación académica. En 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile. Actualmente curso el Doctorado en Ciencias Sociales de la Universidad de Chile gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025).</p>
 <p>Me involucro activamente en el debate público participando como investigador en la <a href="https://www.nodoxxi.cl/">Fundación Nodo XXI</a>.</p>
 
 
 </section>
-
-</main> <!-- /main -->
+</main></div>
+    </div>
+    <img src="media/perfil-liviana.png" class="about-image
+  round " style="height: 15em; width: 15em;">
+  </div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -174,13 +173,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
