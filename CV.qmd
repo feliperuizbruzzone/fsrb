@@ -1,6 +1,16 @@
 ---
 title: "Curriculum"
 toc: false
+about:
+  template: trestles
+  links:
+    - text: Resume
+      href: mailto::felipe.ruiz@ug.uchile.cl
+    - text: CV académico
+      href: mailto::felipe.ruiz@ug.uchile.cl
+    - text: academic CV
+      href: mailto::felipe.ruiz@ug.uchile.cl      
+      
 ---
 
 ## Presentación general
