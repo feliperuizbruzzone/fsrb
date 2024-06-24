@@ -5,7 +5,6 @@ project:
 website:
   navbar:
     title: "Felipe Ruiz Bruzzone"
-    background: primary
     left:
       - href: index.qmd
         text: Home
@@ -13,7 +12,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: darkly
+      light: flatly
     css: styles.css
     toc: true
     page-layout: full
