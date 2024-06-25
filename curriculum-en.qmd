@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae (EN)"
+title: "Resume (EN)"
 format:
   html:
     toc: true

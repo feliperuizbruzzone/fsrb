@@ -1,15 +1,17 @@
 ---
-title: "Overview"
+title: "Bio"
 toc: false
 about:
   template: trestles
   links:
-    - text: Resume
+    - text: Resume (EN)
+      href: https://feliperuizbruzzone.github.io/fsrb/curriculum-en.html
+    - text: Resume (ES)
       href: mailto::felipe.ruiz@ug.uchile.cl
-    - text: CV académico
-      href: mailto::felipe.ruiz@ug.uchile.cl
-    - text: academic CV
-      href: mailto::felipe.ruiz@ug.uchile.cl      
+    - text: Academic CV
+      href: mailto::felipe.ruiz@ug.uchile.cl   
+    - text: CV Académico
+      href: mailto::felipe.ruiz@ug.uchile.cl        
       
 ---
 
