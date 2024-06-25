@@ -9,9 +9,9 @@ about:
     - text: Resume (ES)
       href: mailto::felipe.ruiz@ug.uchile.cl
     - text: Academic CV
-      href: mailto::felipe.ruiz@ug.uchile.cl   
+      href: https://drive.google.com/file/d/13uyhYuKAWS5QwF57kdExweAqa-eBVIce/view?usp=drive_link   
     - text: CV Académico
-      href: mailto::felipe.ruiz@ug.uchile.cl        
+      href: https://drive.google.com/file/d/1AhapfloP8tpw_Z0e1vD2dEar_40zgsir/view?usp=drive_link        
       
 ---
 
