@@ -1,5 +1,5 @@
 ---
-title: "Curriculum"
+title: "Overview"
 toc: false
 about:
   template: trestles

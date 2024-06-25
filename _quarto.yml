@@ -9,15 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - CV.qmd
+      - curriculum-en.qmd
 
 format:
   html:
     theme:
       dark: darkly
       light: flatly
-    css: styles.css
+    css: css/styles.css
     toc: true
     page-layout: full
-
-
-

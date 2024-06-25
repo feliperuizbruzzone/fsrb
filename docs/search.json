@@ -1,24 +1,45 @@
 [
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum",
+    "objectID": "curriculum-en.html",
+    "href": "curriculum-en.html",
+    "title": "Curriculum Vitae (EN)",
     "section": "",
-    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa.\nEn términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero."
+    "text": "felipe.ruiz@ug.uchile.cl"
   },
   {
-    "objectID": "CV.html#presentación-general",
-    "href": "CV.html#presentación-general",
-    "title": "Curriculum",
-    "section": "",
-    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa.\nEn términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero."
+    "objectID": "curriculum-en.html#current-positions",
+    "href": "curriculum-en.html#current-positions",
+    "title": "Curriculum Vitae (EN)",
+    "section": "Current positions",
+    "text": "Current positions\nProject Manager – Half-time  Nodo XXI Foundation 2019 — present\n\nNongovernmental organization that provides political advice and research capabilities to social movements and political organizations.\nMember of the executive management team and responsible for both the implementation of advocacy and research projects and the relationship with international partners.\n\nPosgraduate Researcher – Half-time  University of Chile 2019 — present\n\nYoung academic researcher in charge of scientific projects in the economic and social fields."
   },
   {
-    "objectID": "CV.html#overview",
-    "href": "CV.html#overview",
-    "title": "Curriculum",
-    "section": "Overview",
-    "text": "Overview\nIn thematic terms my research interests lie at the intersection between sociology and economics. I am particularly interested in a research agenda that links the empirical study of accumulation and growth patterns with the analysis of capitalist class differentiation. I have extensive experience leading quantitative-oriented socio-economic research projects.\nIn technical terms, I have a strong background in the area of Data Science. In 2019 I participated as co-author of the publication RStudio for Descriptive Statistics in the Social Sciences. Since 2023 I am a certified instructor in Data Science using R (The Carpentries) and in 2024 I completed the professional specialization in Data Science (John Hopkins University). I have participated as a lecturer in the area of quantitative methodology and programming in R in different universities (undergraduate and postgraduate), both in Chile and abroad."
+    "objectID": "curriculum-en.html#education",
+    "href": "curriculum-en.html#education",
+    "title": "Curriculum Vitae (EN)",
+    "section": "Education",
+    "text": "Education\n\nProfessional\nData Science – Profesional Specialization  John Hopkins University 2024\nProgramming & Data Science Instructor – Profesional Specialization  The Carpentries 2023\nProgram of Advanced Studies on Latin American Economies – Profesional Specialization  UN Economic Commission for Latin America and the Caribbean 2023\nSummer School in Computational Social Sciences, Methods for Analysing Multimedia Data – Profesional Specialization  GESIS Leibniz Institute for The Social Sciences 2019\n\n\nAcademic\nMaster of Science – Social Sciences  University of Chile 2017 — 2019\n\nProject title: The entrepreneurship of the pension system in Chile (2000-2018)\nNational Research and Development Agency. Excellence MSc Scholarship (2017-2019)\n\nBachelor – Sociology  University of Chile 2012 — 2016"
+  },
+  {
+    "objectID": "curriculum-en.html#work-experience",
+    "href": "curriculum-en.html#work-experience",
+    "title": "Curriculum Vitae (EN)",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nData Scientist\nFreelance  Multiple clients2017 – Present\nProviding data collection, pre-processing, statistical analysis and data visualization services to different clients of the scientific and academic sector. The last projects I was involved were:\n\n2023-present. Validation of administrative records and statistical analysis: occupational structure of Chile’s Central Government. Law Faculty, Alberto Hurtado University. National Fund for Scientific and Technological Development (grant 1231868).\n2021-2022. Validation and preparation of databases in reproducible format. Faculty of Social Sciences, Diego Portales University. National Fund for Scientific and Technological Development (grant 1171072).\n\n\n\nData Science Teaching\nLecturer & Teaching assistant  Different institutions2016 – Present\nTeaching experience as data science instructor in different educational contexts: universities (grade and posgraduate courses), professional specializations and particular lessons. My experience as lecturer includes:\n\nFoundations of the R programming language.\nIntroduction to data driven research projects.\nBasic and advanced statistical methods in Social Sciences.\nOpen Science and Free Software Tools for Quantitative Social Research."
+  },
+  {
+    "objectID": "curriculum-en.html#ongoing-studies",
+    "href": "curriculum-en.html#ongoing-studies",
+    "title": "Curriculum Vitae (EN)",
+    "section": "Ongoing studies",
+    "text": "Ongoing studies\nDoctor of Philosophy – Social Sciences  University of Chile March 2021 — Present\n\nProject title: The Capitalist Class in Contemporary Chile (1990-2020). A study based on the case of the Luksic and Cencosud economic groups\nNational Research and Development Agency. Excellence PhD Scholarship (2021-2025).\nExpected submission date: August 2025."
+  },
+  {
+    "objectID": "curriculum-en.html#recent-publications",
+    "href": "curriculum-en.html#recent-publications",
+    "title": "Curriculum Vitae (EN)",
+    "section": "Recent publications",
+    "text": "Recent publications\n\n2024-Financiarización y poder empresarial en el sistema de pensiones chileno. In Formas y mecanismos de la dominación financiera en América Latina. México: Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México. Author.\n2023-The job of public transport, ride-hailing, and delivery drivers: Conditions during the COVID-19 pandemic and implications for a post-pandemic future. Travel, Behaviour, and Society, vol. 31, pages 63-77. Coauthor.\n2021-Financialization and the construction of peripheral business power in the Chilean pension system. In Dependent Capitalisms in Contemporary Latin America and Europe. Palgrave Macmillan. Author\n2019-Descriptive Statistical Methods for Social Sciences Using Rstudio. 2nd Edition. Department of Sociology, University of Chile. Interactive online manual. Co-author."
   },
   {
     "objectID": "index.html",
@@ -26,5 +47,26 @@
     "title": "Felipe Ruiz Bruzzone",
     "section": "",
     "text": "Presentación\n¡Hola! Este sitio funciona principalmente como repositorio de mis actividades; tanto en el plano académico, profesional como en relación a otras actividades que me interesan.\nRecorriendo las secciones podrás acceder a una breve presentación sobre mi perfil, materiales de apoyo para mis cursos, principales publicaciones, entre otras.\n\n\n\nAcerca de mí\nDe formación soy Sociólogo (Universidad de Chile) y profesionalmente me he especializado en el área de la Ciencia de Datos.\nEn paralelo he seguido una carrera de formación académica. En 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile. Actualmente curso el Doctorado en Ciencias Sociales de la Universidad de Chile gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025).\nMe involucro activamente en el debate público participando como investigador en la Fundación Nodo XXI."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Overview",
+    "section": "",
+    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa.\nEn términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero."
+  },
+  {
+    "objectID": "CV.html#presentación-general",
+    "href": "CV.html#presentación-general",
+    "title": "Overview",
+    "section": "",
+    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa.\nEn términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero."
+  },
+  {
+    "objectID": "CV.html#overview",
+    "href": "CV.html#overview",
+    "title": "Overview",
+    "section": "Overview",
+    "text": "Overview\nIn thematic terms my research interests lie at the intersection between sociology and economics. I am particularly interested in a research agenda that links the empirical study of accumulation and growth patterns with the analysis of capitalist class differentiation. I have extensive experience leading quantitative-oriented socio-economic research projects.\nIn technical terms, I have a strong background in the area of Data Science. In 2019 I participated as co-author of the publication RStudio for Descriptive Statistics in the Social Sciences. Since 2023 I am a certified instructor in Data Science using R (The Carpentries) and in 2024 I completed the professional specialization in Data Science (John Hopkins University). I have participated as a lecturer in the area of quantitative methodology and programming in R in different universities (undergraduate and postgraduate), both in Chile and abroad."
   }
 ]

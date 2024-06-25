@@ -1,0 +1,82 @@
+---
+title: "Curriculum Vitae (EN)"
+format:
+  html:
+    toc: true
+  pdf:
+    author: Felipe Ruiz Bruzzone
+    pdf-engine: weasyprint
+css: css/cv.css
+format-links: [pdf]
+---
+
+::: {.print-only .contact-block}
+felipe.ruiz\@ug.uchile.cl
+:::
+
+## Current positions
+**Project Manager** -- Half-time <br> *Nodo XXI Foundation* [*2019 --- present*]{.cvdate}
+
+-   Nongovernmental organization that provides political advice and research capabilities to social movements and political organizations.
+-   Member of the executive management team and responsible for both the implementation of advocacy and research projects and the relationship with international partners.
+
+**Posgraduate Researcher** -- Half-time <br> *University of Chile* [*2019 --- present*]{.cvdate}
+
+-   Young academic researcher in charge of scientific projects in the economic and social fields.
+
+## Education
+
+### Professional
+**Data Science -- Profesional Specialization** <br> *John Hopkins University* [*2024*]{.cvdate}
+
+**Programming & Data Science Instructor** -- Profesional Specialization <br> *The Carpentries* [*2023*]{.cvdate}
+
+**Program of Advanced Studies on Latin American Economies** -- Profesional Specialization <br> *UN Economic Commission for Latin America and the Caribbean* [*2023*]{.cvdate}
+
+**Summer School in Computational Social Sciences, Methods for Analysing Multimedia Data** -- Profesional Specialization <br> *GESIS Leibniz Institute for The Social Sciences* [*2019*]{.cvdate}
+
+### Academic
+**Master of Science -- Social Sciences** <br> *University of Chile* [*2017 --- 2019*]{.cvdate}
+
+- Project title: [*The entrepreneurship of the pension system in Chile (2000-2018)*](https://repositorio.uchile.cl/handle/2250/178848) 
+-   National Research and Development Agency. *Excellence MSc Scholarship* (2017-2019)
+
+**Bachelor -- Sociology** <br> *University of Chile* [*2012 --- 2016*]{.cvdate}
+
+## Work Experience
+
+### Data Scientist
+
+**Freelance** <br> *Multiple clients*[*2017 -- Present*]{.cvdate}
+
+Providing data collection, pre-processing, statistical analysis and data visualization services to different clients of the scientific and academic sector. The last projects I was involved were:
+
+-   2023-present. *Validation of administrative records and statistical analysis: occupational structure of Chile’s Central Government*. Law Faculty, Alberto Hurtado University. *National Fund for Scientific and Technological Development* (grant 1231868).
+-   2021-2022. *Validation and preparation of databases in reproducible format*.  Faculty of Social Sciences, Diego Portales University. *National Fund for Scientific and Technological Development* (grant 1171072).
+
+
+### Data Science Teaching
+
+***Lecturer & Teaching assistant***  <br> *Different institutions*[*2016 -- Present*]{.cvdate}
+
+Teaching experience as *data science instructor* in different educational contexts: universities (grade and posgraduate courses), professional specializations and particular lessons. My experience as lecturer includes:
+
+-   Foundations of the *R* programming language.
+-   Introduction to *data driven* research projects.
+-   Basic and advanced *statistical methods* in Social Sciences.
+-   *Open Science* and *Free Software* Tools for Quantitative Social Research.
+
+## Ongoing studies
+
+**Doctor of Philosophy -- Social Sciences** <br> *University of Chile* [*March 2021 --- Present*]{.cvdate}
+
+- Project title: *The Capitalist Class in Contemporary Chile (1990-2020). A study based on the case of the Luksic and Cencosud economic groups* 
+-   National Research and Development Agency. *Excellence PhD Scholarship* (2021-2025).
+-   Expected submission date: August 2025.
+
+## Recent publications
+- 2024-Financiarización y poder empresarial
+en el sistema de pensiones chileno. In [Formas y mecanismos de la dominación financiera en América Latina](https://www.iis.unam.mx/formas-y-mecanismos-de-la-dominacion-financiera-en-america-latina/). México: Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México. Author.
+-   2023-[The job of public transport, ride-hailing, and delivery drivers: Conditions during the COVID-19 pandemic and implications for a post-pandemic future](https://doi.org/10.1016/j.tbs.2022.11.004). *Travel, Behaviour, and Society*, vol. 31, pages 63-77. Coauthor.
+-   2021-[Financialization and the construction of peripheral business power in the Chilean pension system](https://doi.org/10.1007/978-3-030-71315-7). In *Dependent Capitalisms in Contemporary Latin America and Europe*. Palgrave Macmillan. Author
+-   2019-[Descriptive Statistical Methods for Social Sciences Using Rstudio](https://bookdown.org/gboccardo/manual-ED-UCH/). 2nd Edition. Department of Sociology, University of Chile. *Interactive online manual*. Co-author.
