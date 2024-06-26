@@ -7,7 +7,7 @@ about:
     - text: Resume (EN)
       href: https://feliperuizbruzzone.github.io/fsrb/curriculum-en.html
     - text: Resume (ES)
-      href: mailto::felipe.ruiz@ug.uchile.cl
+      href: https://feliperuizbruzzone.github.io/fsrb/curriculum-es.html
     - text: Academic CV
       href: https://drive.google.com/file/d/13uyhYuKAWS5QwF57kdExweAqa-eBVIce/view?usp=drive_link   
     - text: CV Académico

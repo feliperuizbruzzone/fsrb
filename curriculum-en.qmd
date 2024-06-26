@@ -15,7 +15,7 @@ felipe.ruiz\@ug.uchile.cl
 :::
 
 ## Current positions
-**Project Manager** -- Half-time <br> *Nodo XXI Foundation* [*2019 --- present*]{.cvdate}
+**Project Manager** -- Half-time <br> *[Nodo XXI Foundation](https://www.nodoxxi.cl/)* [*2019 --- present*]{.cvdate}
 
 -   Nongovernmental organization that provides political advice and research capabilities to social movements and political organizations.
 -   Member of the executive management team and responsible for both the implementation of advocacy and research projects and the relationship with international partners.
@@ -27,9 +27,9 @@ felipe.ruiz\@ug.uchile.cl
 ## Education
 
 ### Professional
-**Data Science -- Profesional Specialization** <br> *John Hopkins University* [*2024*]{.cvdate}
+**[Data Science](https://www.coursera.org/account/accomplishments/specialization/L53LGQM762N2)** -- Profesional Specialization <br> *John Hopkins University* [*2024*]{.cvdate}
 
-**Programming & Data Science Instructor** -- Profesional Specialization <br> *The Carpentries* [*2023*]{.cvdate}
+**[Programming & Data Science Instructor](https://carpentries.org/instructors/)** -- Profesional Specialization <br> *The Carpentries* [*2023*]{.cvdate}
 
 **Program of Advanced Studies on Latin American Economies** -- Profesional Specialization <br> *UN Economic Commission for Latin America and the Caribbean* [*2023*]{.cvdate}
 
@@ -49,7 +49,7 @@ felipe.ruiz\@ug.uchile.cl
 
 **Freelance** <br> *Multiple clients*[*2017 -- Present*]{.cvdate}
 
-Providing data collection, pre-processing, statistical analysis and data visualization services to different clients of the scientific and academic sector. The last projects I was involved were:
+Providing data collection, pre-processing, statistical analysis and data visualization services to different clients of the private, scientific and academic sector. The last projects I was involved were:
 
 -   2023-present. *Validation of administrative records and statistical analysis: occupational structure of Chile’s Central Government*. Law Faculty, Alberto Hurtado University. *National Fund for Scientific and Technological Development* (grant 1231868).
 -   2021-2022. *Validation and preparation of databases in reproducible format*.  Faculty of Social Sciences, Diego Portales University. *National Fund for Scientific and Technological Development* (grant 1171072).
@@ -70,7 +70,7 @@ Teaching experience as *data science instructor* in different educational contex
 
 **Doctor of Philosophy -- Social Sciences** <br> *University of Chile* [*March 2021 --- Present*]{.cvdate}
 
-- Project title: *The Capitalist Class in Contemporary Chile (1990-2020). A study based on the case of the Luksic and Cencosud economic groups* 
+- Project title: *[The Capitalist Class in Contemporary Chile (1990-2020). A study based on the case of the Luksic and Cencosud economic groups](https://www.researchgate.net/publication/371500552_La_Clase_Capitalista_en_el_Chile_contemporaneo_1990-2020_un_estudio_basado_en_el_caso_de_los_grupos_economicos_Luksic_y_Cencosud_The_Capitalist_Class_in_Contemporary_Chile_1990-2020_A_study_based_on_t)* 
 -   National Research and Development Agency. *Excellence PhD Scholarship* (2021-2025).
 -   Expected submission date: August 2025.
 

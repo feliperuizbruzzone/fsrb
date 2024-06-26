@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - overview.qmd
+      - curriculum-es.qmd
       - curriculum-en.qmd
 
 format:
