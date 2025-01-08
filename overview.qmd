@@ -9,9 +9,9 @@ about:
     - text: Resume (ES)
       href: https://feliperuizbruzzone.github.io/fsrb/curriculum-es.html
     - text: Academic CV
-      href: https://drive.google.com/file/d/13uyhYuKAWS5QwF57kdExweAqa-eBVIce/view?usp=drive_link   
+      href: https://drive.google.com/file/d/1pLHajo1rmbaUN6E4lXal1FS_AnL6froL/view?usp=drive_link   
     - text: CV Académico
-      href: https://drive.google.com/file/d/1AhapfloP8tpw_Z0e1vD2dEar_40zgsir/view?usp=drive_link        
+      href: https://drive.google.com/file/d/1UQKFdPTKgJwrl89n1Twk3wOamTdOjZwU/view?usp=sharing  
       
 ---
 
