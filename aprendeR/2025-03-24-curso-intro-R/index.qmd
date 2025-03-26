@@ -1,0 +1,69 @@
+---
+title: "Análisis estadístico inicial con lenguaje de programación R"
+description: "Programa e inscripciones"
+author:
+  - name: Felipe Ruiz Bruzzone
+    url: https://feliperuizbruzzone.github.io/fsrb/
+    orcid: 000-0001-5122-8775
+    affiliation: aprende**R**
+date: 03-24-2025
+categories: [Cursos, R] # self-defined categories
+image: rstudio-logo.png
+lang: es
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Descripción
+Este curso tiene como objetivo preparar a los participantes para desarrollar análisis estadístico descriptivo usando lenguaje de programación R. Debido a la formación disciplinar y expertiz temática del docente, se usarán ejemplos vinculados al análisis social, político y económico. Pero los contenidos son adaptables a cualquier disciplina.
+
+El público objetivo son personas del ámbito profesional y académico -o en formación- que precisen aprender los fundamentos del análisis estadístico y/o aplicar tales herramientas de manera práctica al análisis de datos mediante lenguaje R. Para una adecuada personalización la **cantidad de cupos es limitada**.
+
+# Requisitos
+
+- Ninguno. Dado su carácter introductorio, trabajaremos desde una aproximación inicial tanto en lo que refiere a análisis estadístico como a programación y manejo computacional.
+- Debido a que es un curso virtual, se espera que cada persona disponga de un computador personal con conexión a internet estable.
+
+# Objetivos de aprendizaje
+
+## Objetivo general
+
+- Aprender los fundamentos teóricos del análisis estadístico descriptivo y su aplicación en casos reales mediante lenguaje de programación R.
+
+## Objetivos específicos
+- Identificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación.
+- Manejar los conceptos básicos del análisis estadístico descriptivo.
+- Conocer los fundamentos de la programación orientada al análisis estadístico con R.
+- Desarrollar de manera autónoma análisis estadístico descriptivo de bases de datos usando R.
+- Describir e interpretar resultados de estadística descriptiva para contextos profesionales y académicos.
+
+# Metodología de aprendizaje
+- Tendremos 6 sesiones, combinando las modalidades sincrónica y asincrónica para el desarrollo de las mismas. 
+- Se dará acceso a material de código, bases de datos y referencias utilizadas a lo largo del curso: cada estudiante se llevará un material ya construido en base al cual podrá continuar su aprendizaje.
+- Debido al carácter aplicado, cada estudiante comenzará rápidamente a implementar el uso de R y RStudio para sus propios fines de investigación.
+
+# Calendarización
+
+```{r}
+#| label: tbl-cronograma
+#| tbl-cap: Contenidos, fechas y modalidad
+#| echo: false
+cronograma <- read.csv("cronograma-intro-R.csv")
+library(kableExtra)
+kableExtra::kable(cronograma, col.names = c("ID", "Sesión", "Fecha", "Modalidad")) %>% kableExtra::kable_styling(bootstrap_options = c("striped","bordered","hover","condensed","responsive"))
+```
+
+# Costo, forma de pago e inscripciones
+
+El costo del curso incluye el acceso a las sesiones (sincrónicas y asincrónicas), así como al material de aprendizaje. Según países y medios de pago, el costo el siguiente:
+
+- **Chile**: $65.000 CLP. *Transferencia banco nacional*.
+- **Argentina**: $80.000 ARS. *Transferencia Mercado Pago*.
+- **USD u otros países**: $67 USD. *Transferencia Paypal*.
+
+**La inscripción se realiza mediante el siguiente formulario**: [https://tinyurl.com/curso-intro-r](https://tinyurl.com/curso-intro-r)
+
+- El cupo se confirma una vez recibido el pago por esta vía; **no olvides adjuntar el comprobante mediante el formulario**.
+- Si durante el trámite tienes algún problema, puedes escribirme a [felipe.ruiz@ug.uchile.cl](mailto::felipe.ruiz@ug.uchile.cl).
+
+# Docente
+[Felipe Ruiz Bruzzone](https://feliperuizbruzzone.github.io/fsrb/) (Chile). Sociólogo, magíster y Doctor(c) en Ciencias Sociales por la Universidad de Chile. Con amplia experiencia en investigación académica y consultoría profesional en análisis computacional de información. Especializado profesionalmente y certificado como docente en el ámbito de la Ciencia de Datos (*John Hopkins University* / *The Carpentries*). Socio fundador en [Estrategia Sur](https://estrategiasur.cl/).

@@ -11,6 +11,7 @@ website:
       - overview.qmd
       - curriculum-es.qmd
       - curriculum-en.qmd
+      - posts.qmd
 
 format:
   html:

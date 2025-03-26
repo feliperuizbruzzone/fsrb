@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Felipe Ruiz Bruzzone">
+<meta name="description" content="Programa e inscripciones">
 
-<title>Felipe Ruiz Bruzzone</title>
+<title>Análisis estadístico inicial con lenguaje de programación R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -54,119 +57,274 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Sin resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
+<script src="../../site_libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="../../site_libs/lightable-0.0.1/lightable.css" rel="stylesheet">
 
 
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="../../css/styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Felipe Ruiz Bruzzone</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Buscar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./overview.html"> 
+    <a class="nav-link" href="../../overview.html"> 
 <span class="menu-text">Bio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./curriculum-es.html"> 
+    <a class="nav-link" href="../../curriculum-es.html"> 
 <span class="menu-text">Resume (ES)</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./curriculum-en.html"> 
+    <a class="nav-link" href="../../curriculum-en.html"> 
 <span class="menu-text">Resume (EN)</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link" href="../../posts.html"> 
 <span class="menu-text">aprendeR</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo oscuro"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Análisis estadístico inicial con lenguaje de programación R</h1>
+                  <div>
+        <div class="description">
+          Programa e inscripciones
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Cursos</div>
+                <div class="quarto-category">R</div>
+              </div>
+                  </div>
+  </div>
+    
+  <div class="quarto-title-meta-author column-page-left">
+    <div class="quarto-title-meta-heading">Autor/a</div>
+    <div class="quarto-title-meta-heading">Afiliación</div>
+    
+      <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://feliperuizbruzzone.github.io/fsrb/">Felipe Ruiz Bruzzone</a> <a href="https://orcid.org/000-0001-5122-8775" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              aprende<strong>R</strong>
+            </p>
+        </div>
+    </div>
+
+  <div class="quarto-title-meta column-page-left">
+
+        
+      <div>
+      <div class="quarto-title-meta-heading">Fecha de publicación</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">24 de marzo de 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta página</h2>
+   
+  <ul>
+  <li><a href="#descripción" id="toc-descripción" class="nav-link active" data-scroll-target="#descripción">Descripción</a></li>
+  <li><a href="#requisitos" id="toc-requisitos" class="nav-link" data-scroll-target="#requisitos">Requisitos</a></li>
+  <li><a href="#objetivos-de-aprendizaje" id="toc-objetivos-de-aprendizaje" class="nav-link" data-scroll-target="#objetivos-de-aprendizaje">Objetivos de aprendizaje</a>
+  <ul class="collapse">
+  <li><a href="#objetivo-general" id="toc-objetivo-general" class="nav-link" data-scroll-target="#objetivo-general">Objetivo general</a></li>
+  <li><a href="#objetivos-específicos" id="toc-objetivos-específicos" class="nav-link" data-scroll-target="#objetivos-específicos">Objetivos específicos</a></li>
+  </ul></li>
+  <li><a href="#metodología-de-aprendizaje" id="toc-metodología-de-aprendizaje" class="nav-link" data-scroll-target="#metodología-de-aprendizaje">Metodología de aprendizaje</a></li>
+  <li><a href="#calendarización" id="toc-calendarización" class="nav-link" data-scroll-target="#calendarización">Calendarización</a></li>
+  <li><a href="#costo-forma-de-pago-e-inscripciones" id="toc-costo-forma-de-pago-e-inscripciones" class="nav-link" data-scroll-target="#costo-forma-de-pago-e-inscripciones">Costo, forma de pago e inscripciones</a></li>
+  <li><a href="#docente" id="toc-docente" class="nav-link" data-scroll-target="#docente">Docente</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="media/perfil-liviana.png" class="about-image
-  round " style="height: 20em; width: 20em;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Felipe Ruiz Bruzzone</h1>
-</div>
-<div class="quarto-title-meta column-page">
-  </div>
-</header>
-    <div class="about-links">
-  <a href="mailto::felipe.ruiz@ug.uchile.cl" class="about-link" rel="" target="">
-     <span class="about-link-text">Gmail</span>
-  </a>
-  <a href="https://www.researchgate.net/profile/Felipe-Ruiz-13" class="about-link" rel="" target="">
-     <span class="about-link-text">ResearchGate</span>
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-stefano-ruiz-bruzzone-71b068169/" class="about-link" rel="" target="">
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/feliperuizbruzzone" class="about-link" rel="" target="">
-     <span class="about-link-text">GitHub</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<section id="presentación" class="level1">
-<h1>Presentación</h1>
-<p>¡Hola! Este sitio funciona principalmente como repositorio de mis actividades; tanto en el plano académico, profesional como en relación a otras actividades que me interesan.</p>
-<p>Recorriendo las secciones podrás acceder a una breve presentación sobre mi perfil, materiales de apoyo para mis cursos, principales publicaciones, entre otras.</p>
-<hr>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+<section id="descripción" class="level1">
+<h1>Descripción</h1>
+<p>Este curso tiene como objetivo preparar a los participantes para desarrollar análisis estadístico descriptivo usando lenguaje de programación R. Debido a la formación disciplinar y expertiz temática del docente, se usarán ejemplos vinculados al análisis social, político y económico. Pero los contenidos son adaptables a cualquier disciplina.</p>
+<p>El público objetivo son personas del ámbito profesional y académico -o en formación- que precisen aprender los fundamentos del análisis estadístico y/o aplicar tales herramientas de manera práctica al análisis de datos mediante lenguaje R. Para una adecuada personalización la <strong>cantidad de cupos es limitada</strong>.</p>
 </section>
-<section id="acerca-de-mí" class="level1">
-<h1>Acerca de mí</h1>
-<p>De formación soy Sociólogo (Universidad de Chile) y profesionalmente me he especializado en el área de la Ciencia de Datos.</p>
-<p>En paralelo he seguido una carrera de formación académica. En 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile. Actualmente curso el Doctorado en Ciencias Sociales de la Universidad de Chile gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025).</p>
-<p>Me involucro activamente en el debate público participando como investigador en la <a href="https://www.nodoxxi.cl/">Fundación Nodo XXI</a>.</p>
+<section id="requisitos" class="level1">
+<h1>Requisitos</h1>
+<ul>
+<li>Ninguno. Dado su carácter introductorio, trabajaremos desde una aproximación inicial tanto en lo que refiere a análisis estadístico como a programación y manejo computacional.</li>
+<li>Debido a que es un curso virtual, se espera que cada persona disponga de un computador personal con conexión a internet estable.</li>
+</ul>
+</section>
+<section id="objetivos-de-aprendizaje" class="level1">
+<h1>Objetivos de aprendizaje</h1>
+<section id="objetivo-general" class="level2">
+<h2 class="anchored" data-anchor-id="objetivo-general">Objetivo general</h2>
+<ul>
+<li>Aprender los fundamentos teóricos del análisis estadístico descriptivo y su aplicación en casos reales mediante lenguaje de programación R.</li>
+</ul>
+</section>
+<section id="objetivos-específicos" class="level2">
+<h2 class="anchored" data-anchor-id="objetivos-específicos">Objetivos específicos</h2>
+<ul>
+<li>Identificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación.</li>
+<li>Manejar los conceptos básicos del análisis estadístico descriptivo.</li>
+<li>Conocer los fundamentos de la programación orientada al análisis estadístico con R.</li>
+<li>Desarrollar de manera autónoma análisis estadístico descriptivo de bases de datos usando R.</li>
+<li>Describir e interpretar resultados de estadística descriptiva para contextos profesionales y académicos.</li>
+</ul>
+</section>
+</section>
+<section id="metodología-de-aprendizaje" class="level1">
+<h1>Metodología de aprendizaje</h1>
+<ul>
+<li>Tendremos 6 sesiones, combinando las modalidades sincrónica y asincrónica para el desarrollo de las mismas.</li>
+<li>Se dará acceso a material de código, bases de datos y referencias utilizadas a lo largo del curso: cada estudiante se llevará un material ya construido en base al cual podrá continuar su aprendizaje.</li>
+<li>Debido al carácter aplicado, cada estudiante comenzará rápidamente a implementar el uso de R y RStudio para sus propios fines de investigación.</li>
+</ul>
+</section>
+<section id="calendarización" class="level1">
+<h1>Calendarización</h1>
+<div class="cell">
+<div id="tbl-cronograma" class="cell quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-cronograma-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Tabla&nbsp;1: Contenidos, fechas y modalidad
+</figcaption>
+<div aria-describedby="tbl-cronograma-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div class="cell-output-display">
+<div class="table-responsive">
+<table class="table table-striped table-bordered table-hover table-condensed do-not-create-environment cell caption-top table-sm small" data-quarto-postprocess="true">
+<thead>
+<tr class="header">
+<th style="text-align: right;" data-quarto-table-cell-role="th">ID</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Sesión</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Fecha</th>
+<th style="text-align: left;" data-quarto-table-cell-role="th">Modalidad</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">1</td>
+<td style="text-align: left;">Softwares como herramienta de análisis de datos</td>
+<td style="text-align: left;">01/04/25</td>
+<td style="text-align: left;">Sincrónica</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2</td>
+<td style="text-align: left;">R y el análisis estadístico</td>
+<td style="text-align: left;">02/04/25</td>
+<td style="text-align: left;">Asincrónica</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">3</td>
+<td style="text-align: left;">Principios de programación y manejo de bases de datos</td>
+<td style="text-align: left;">03/04/25</td>
+<td style="text-align: left;">Sincrónica</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">4</td>
+<td style="text-align: left;">Análisis estadístico descriptivo: teoría y aplicación inicial</td>
+<td style="text-align: left;">04/04/25</td>
+<td style="text-align: left;">Sincrónica</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">5</td>
+<td style="text-align: left;">Análisis estadístico descriptivo con R</td>
+<td style="text-align: left;">05/04/25</td>
+<td style="text-align: left;">Sincrónica</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">6</td>
+<td style="text-align: left;">Taller aplicado: proyecto de análisis de datos</td>
+<td style="text-align: left;">06/04/25</td>
+<td style="text-align: left;">Sincrónica</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+</div>
+</div>
+</figure>
+</div>
+</div>
+</section>
+<section id="costo-forma-de-pago-e-inscripciones" class="level1">
+<h1>Costo, forma de pago e inscripciones</h1>
+<p>El costo del curso incluye el acceso a las sesiones (sincrónicas y asincrónicas), así como al material de aprendizaje. Según países y medios de pago, el costo el siguiente:</p>
+<ul>
+<li><strong>Chile</strong>: $65.000 CLP. <em>Transferencia banco nacional</em>.</li>
+<li><strong>Argentina</strong>: $80.000 ARS. <em>Transferencia Mercado Pago</em>.</li>
+<li><strong>USD u otros países</strong>: $67 USD. <em>Transferencia Paypal</em>.</li>
+</ul>
+<p><strong>La inscripción se realiza mediante el siguiente formulario</strong>: <a href="https://tinyurl.com/curso-intro-r">https://tinyurl.com/curso-intro-r</a></p>
+<ul>
+<li>El cupo se confirma una vez recibido el pago por esta vía; <strong>no olvides adjuntar el comprobante mediante el formulario</strong>.</li>
+<li>Si durante el trámite tienes algún problema, puedes escribirme a <a href="mailto::felipe.ruiz@ug.uchile.cl">felipe.ruiz@ug.uchile.cl</a>.</li>
+</ul>
+</section>
+<section id="docente" class="level1">
+<h1>Docente</h1>
+<p><a href="https://feliperuizbruzzone.github.io/fsrb/">Felipe Ruiz Bruzzone</a> (Chile). Sociólogo, magíster y Doctor(c) en Ciencias Sociales por la Universidad de Chile. Con amplia experiencia en investigación académica y consultoría profesional en análisis computacional de información. Especializado profesionalmente y certificado como docente en el ámbito de la Ciencia de Datos (<em>John Hopkins University</em> / <em>The Carpentries</em>). Socio fundador en <a href="https://estrategiasur.cl/">Estrategia Sur</a>.</p>
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -331,6 +489,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -347,12 +512,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
+    button.setAttribute("title", "Copiado");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
+      button.setAttribute("data-bs-title", "Copiado");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
