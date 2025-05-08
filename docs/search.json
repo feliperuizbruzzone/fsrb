@@ -4,14 +4,7 @@
     "href": "index.html",
     "title": "Felipe Ruiz Bruzzone",
     "section": "",
-    "text": "Presentación\n¡Hola! Este sitio funciona principalmente como repositorio de mis actividades; tanto en el plano académico, profesional como en relación a otras actividades que me interesan.\nRecorriendo las secciones podrás acceder a una breve presentación sobre mi perfil, materiales de apoyo para mis cursos, principales publicaciones, entre otras.\n\n\n\nAcerca de mí\nDe formación soy Sociólogo (Universidad de Chile) y profesionalmente me he especializado en el área de la Ciencia de Datos.\nEn paralelo he seguido una carrera de formación académica. En 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile. Actualmente curso el Doctorado en Ciencias Sociales de la Universidad de Chile gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025).\nMe involucro activamente en el debate público participando como investigador en la Fundación Nodo XXI."
-  },
-  {
-    "objectID": "aprendeR/2025-03-24-curso-intro-R/index.html",
-    "href": "aprendeR/2025-03-24-curso-intro-R/index.html",
-    "title": "Análisis estadístico inicial con lenguaje de programación R",
-    "section": "",
-    "text": "Este curso tiene como objetivo preparar a los participantes para desarrollar análisis estadístico descriptivo usando lenguaje de programación R. Debido a la formación disciplinar y expertiz temática del docente, se usarán ejemplos vinculados al análisis social, político y económico. Pero los contenidos son adaptables a cualquier disciplina.\nEl público objetivo son personas del ámbito profesional y académico -o en formación- que precisen aprender los fundamentos del análisis estadístico y/o aplicar tales herramientas de manera práctica al análisis de datos mediante lenguaje R. Para una adecuada personalización la cantidad de cupos es limitada."
+    "text": "¡Hola! Este sitio funciona principalmente como repositorio de mis actividades; tanto en el plano académico, profesional como en relación a otras actividades que me interesan."
   },
   {
     "objectID": "aprendeR/2025-03-24-curso-intro-R/index.html#objetivo-general",
@@ -32,14 +25,21 @@
     "href": "overview.html",
     "title": "Bio",
     "section": "",
-    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa.\nEn términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero."
+    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa."
   },
   {
     "objectID": "overview.html#presentación-general",
     "href": "overview.html#presentación-general",
     "title": "Bio",
     "section": "",
-    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa.\nEn términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero."
+    "text": "En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa."
+  },
+  {
+    "objectID": "overview.html#en-términos-técnicos-tengo-una-sólida-formación-en-el-área-de-ciencia-de-datos.-en-2019-participé-como-coautor-de-la-publicación-rstudio-para-estadística-descriptiva-en-ciencias-sociales.-desde-2023-soy-instructor-certificado-en-ciencia-de-datos-usando-r-the-carpentries-y-en-2024-aprobé-la-especialización-profesional-en-ciencia-de-datos-john-hopkins-university.-he-participado-como-docente-en-el-área-de-metodología-cuantitativa-y-programación-en-r-en-diferentes-universidades-pregrado-y-posgrado-tanto-en-chile-como-en-el-extranjero.",
+    "href": "overview.html#en-términos-técnicos-tengo-una-sólida-formación-en-el-área-de-ciencia-de-datos.-en-2019-participé-como-coautor-de-la-publicación-rstudio-para-estadística-descriptiva-en-ciencias-sociales.-desde-2023-soy-instructor-certificado-en-ciencia-de-datos-usando-r-the-carpentries-y-en-2024-aprobé-la-especialización-profesional-en-ciencia-de-datos-john-hopkins-university.-he-participado-como-docente-en-el-área-de-metodología-cuantitativa-y-programación-en-r-en-diferentes-universidades-pregrado-y-posgrado-tanto-en-chile-como-en-el-extranjero.",
+    "title": "Bio",
+    "section": "En términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero.",
+    "text": "En términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación RStudio para Estadística Descriptiva en Ciencias Sociales. Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero."
   },
   {
     "objectID": "overview.html#overview",
@@ -53,7 +53,7 @@
     "href": "posts.html",
     "title": "aprendeR",
     "section": "",
-    "text": "Análisis estadístico inicial con lenguaje de programación R\n\n\n\nCursos\n\n\nR\n\n\n\nPrograma e inscripciones\n\n\n\nFelipe Ruiz Bruzzone\n\n\nMar 24, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Análisis estadístico inicial con lenguaje de programación R\n\n\n\nCursos\n\nR\n\n\n\nPrograma e inscripciones\n\n\n\nFelipe Ruiz Bruzzone\n\n\nAug 5, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "curriculum-es.html",
