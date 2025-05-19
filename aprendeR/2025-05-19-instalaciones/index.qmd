@@ -1,0 +1,84 @@
+---
+title: "Guía rápida de instalación de R y RStudio"
+description: "Tutorial para instalaciones iniciales"
+author:
+  - name: Felipe Ruiz Bruzzone
+    url: https://feliperuizbruzzone.github.io/fsrb/
+    orcid: 000-0001-5122-8775
+    affiliation: aprende**R**
+date: 19-05-2025
+categories: [Cursos, R] # self-defined categories
+image: rstudio-logo.png
+lang: es
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+A continuación encontrarás las instrucciones para instalar R y RStudio, tanto para Windows como para macOS. En este [enlace](https://bookdown.org/gboccardo/manual-ED-UCH/instalacion-de-los-softwares-a-utilizar-en-este-manual.html) encontrarás un tutorial de instalación con capturas de pantalla.^[Es de hace algunos años y las versiones de los softwares están algo desactualizadas, pero todavía es útil.]
+
+## Versión para Windows
+
+1. **Instalar R**
+- Abre el navegador y accede al repositorio oficial de R: [https://cran.r-project.org/](https://cran.r-project.org/).
+- Haz clic en “Download R for Windows”.
+- Pulsa “base” y luego en “Download R 4.5.0 for Windows” (última versión).
+- Ejecuta el archivo `.exe` descargado.
+    - Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta "descargas".
+- Sigue las instrucciones por defecto del asistente: aceptar licencia, ruta por defecto (p. ej. `C:\Program Files\R\R-4.x.x`), opciones recomendadas.
+- ¡Listo!
+
+2. **Instalar RStudio**
+- Desde tu explorador de internet abre: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/).
+- Baja por la web hasta la tabla de instaladores: busca la línea *Windows 10/11* bajo la columna *OS*, y haz click en el archivo `.exe` (p. ej. `RStudio-2025.05.0-496.exe`) para descargar el instalador de RStudio.
+- Ejecuta el archivo `.exe` descargado.
+    - Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta "descargas".
+- Ejecuta el instalador y acepta las opciones por defecto.
+- ¡Listo!
+
+3. **Configuración adicional: Java offline**
+
+Para prevenir incompatibilidades con tu sistema operativo, te sugiero instalar una versión de Java que no se actualiza automáticamente.
+
+- Desde tu explorador de internet abre: [https://www.java.com/es/download/manual.jsp](https://www.java.com/es/download/manual.jsp)
+- Baja hasta la sección *Windows* y busca la opción que dice *Windows Fuera de Línea (64 bits)*. Haz clic en el link y descarga el instalador.
+- Ejecuta el archivo `.exe` descargado.
+    - Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta "descargas".
+- Ejecutar el instalador y acepta las opciones por defecto.
+- ¡Listo!
+
+4. **Primer arranque**
+- Desde tu menú de inicio, abre **RStudio** (no abras R).
+- Verifica que en la consola aparezca el prompt `>` de R. Debería verse en tu pantalla una sección como la que sigue:
+
+![Consola R](r-console.png)
+
+- Puedes cerrar RStudio, ¡está todo correctamente instalado!
+
+
+## Versión para macOS
+
+1. **Instalar R**
+- Desde tu navegador de internet accede al repositorio oficial de R [https://cran.r-project.org/](https://cran.r-project.org/).
+- Haz clic en “Download R for macOS”.
+- Descarga el instalador `.pkg` correspondiente a tu versión de macOS. Por ejemplo, para macOS 11 o superior, `R-4.5.0-arm64.pkg`
+- Abre el archivo `.pkg` descargado y sigue las instrucciones del asistente: siguiente → aceptar licencia → instalar.
+  - Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta "descargas"
+- ¡Listo!
+
+2. **Instalar RStudio**
+- Desde tu explorador de internet abre [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/).
+- Baja por la web hasta la tabla de instaladores: busca la línea *macOS 13+* bajo la columna *OS*, y haz click en el archivo `.dmg` (p. ej. `RStudio-2025.05.0-496.dmg`) para descargar el instalador de RStudio.
+  - Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta "descargas"
+- Abre el archivo `.dmg` y arrastra el icono de RStudio a la carpeta Aplicaciones (*Applications**) para concretar la instalación.
+- Para corroborar la correcta instalación de RStudio, puedes observar que el programa se encuentre disponible en el *launchpad*, en donde aparecen todas las aplicaciones instaladas en el computador.
+- ¡Listo!
+
+3. **Primer arranque**
+
+- Desde tu menú de inicio anda a *Aplicaciones* y abre **RStudio** (no abras R).
+- Verifica que en la consola aparezca el prompt `>` de R. Debería verse en tu pantalla una sección como la que sigue:
+
+![Consola R](r-console.png)
+
+- Puedes cerrar RStudio, ¡está todo correctamente instalado!
+
+> **Consejo**: Mantén R y RStudio actualizados revisando periódicamente las páginas de descarga. ¡Ya estás listo para comenzar a explorar R!

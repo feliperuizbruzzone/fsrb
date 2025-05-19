@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.7.20">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Felipe Ruiz Bruzzone">
+<meta name="description" content="Tutorial para instalaciones iniciales">
 
-<title>aprendeR</title>
+<title>Guía rápida de instalación de R y RStudio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +25,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-6bb072e51ab976e338d8fd19b221fbe5.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-772f16f1092111b8ed76131bef37b30d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-06fd05b57aeab010b90434a0fb7061f2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-482db9faea10974448f79e089188ec0f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-6bb072e51ab976e338d8fd19b221fbe5.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-772f16f1092111b8ed76131bef37b30d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-06fd05b57aeab010b90434a0fb7061f2.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-482db9faea10974448f79e089188ec0f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -58,136 +58,129 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Sin resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="../../css/styles.css">
 </head>
 
 <body class="nav-fixed quarto-dark">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Felipe Ruiz Bruzzone</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Buscar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./overview.html"> 
+    <a class="nav-link" href="../../overview.html"> 
 <span class="menu-text">Bio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./curriculum-es.html"> 
+    <a class="nav-link" href="../../curriculum-es.html"> 
 <span class="menu-text">Resume (ES)</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./curriculum-en.html"> 
+    <a class="nav-link" href="../../curriculum-en.html"> 
 <span class="menu-text">Resume (EN)</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" aria-current="page"> 
+    <a class="nav-link" href="../../posts.html"> 
 <span class="menu-text">aprendeR</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo oscuro"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Guía rápida de instalación de R y RStudio</h1>
+                  <div>
+        <div class="description">
+          Tutorial para instalaciones iniciales
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">Cursos</div>
+                <div class="quarto-category">R</div>
+              </div>
+                  </div>
+  </div>
+    
+  <div class="quarto-title-meta-author column-page-left">
+    <div class="quarto-title-meta-heading">Autor/a</div>
+    <div class="quarto-title-meta-heading">Afiliación</div>
+    
+      <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://feliperuizbruzzone.github.io/fsrb/">Felipe Ruiz Bruzzone</a> <a href="https://orcid.org/000-0001-5122-8775" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              aprende<strong>R</strong>
+            </p>
+        </div>
+    </div>
+
+  <div class="quarto-title-meta column-page-left">
+
+        
+      <div>
+      <div class="quarto-title-meta-heading">Fecha de publicación</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">5 de julio de 2026</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q3Vyc29z">Cursos <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(2)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta página</h2>
+   
+  <ul>
+  <li><a href="#versión-para-windows" id="toc-versión-para-windows" class="nav-link active" data-scroll-target="#versión-para-windows">Versión para Windows</a></li>
+  <li><a href="#versión-para-macos" id="toc-versión-para-macos" class="nav-link" data-scroll-target="#versión-para-macos">Versión para macOS</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 <script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
@@ -319,96 +312,129 @@ window.Quarto = {
     }
   </script>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">aprendeR</h1>
+
+
+
+
+<p>A continuación encontrarás las instrucciones para instalar R y RStudio, tanto para Windows como para macOS. En este <a href="https://bookdown.org/gboccardo/manual-ED-UCH/instalacion-de-los-softwares-a-utilizar-en-este-manual.html">enlace</a> encontrarás un tutorial de instalación con capturas de pantalla.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<section id="versión-para-windows" class="level2">
+<h2 class="anchored" data-anchor-id="versión-para-windows">Versión para Windows</h2>
+<ol type="1">
+<li><strong>Instalar R</strong></li>
+</ol>
+<ul>
+<li>Abre el navegador y accede al repositorio oficial de R: <a href="https://cran.r-project.org/">https://cran.r-project.org/</a>.</li>
+<li>Haz clic en “Download R for Windows”.</li>
+<li>Pulsa “base” y luego en “Download R 4.5.0 for Windows” (última versión).</li>
+<li>Ejecuta el archivo <code>.exe</code> descargado.
+<ul>
+<li>Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”.</li>
+</ul></li>
+<li>Sigue las instrucciones por defecto del asistente: aceptar licencia, ruta por defecto (p.&nbsp;ej. <code>C:\Program Files\R\R-4.x.x</code>), opciones recomendadas.</li>
+<li>¡Listo!</li>
+</ul>
+<ol start="2" type="1">
+<li><strong>Instalar RStudio</strong></li>
+</ol>
+<ul>
+<li>Desde tu explorador de internet abre: <a href="https://posit.co/download/rstudio-desktop/">https://posit.co/download/rstudio-desktop/</a>.</li>
+<li>Baja por la web hasta la tabla de instaladores: busca la línea <em>Windows 10/11</em> bajo la columna <em>OS</em>, y haz click en el archivo <code>.exe</code> (p.&nbsp;ej. <code>RStudio-2025.05.0-496.exe</code>) para descargar el instalador de RStudio.</li>
+<li>Ejecuta el archivo <code>.exe</code> descargado.
+<ul>
+<li>Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”.</li>
+</ul></li>
+<li>Ejecuta el instalador y acepta las opciones por defecto.</li>
+<li>¡Listo!</li>
+</ul>
+<ol start="3" type="1">
+<li><strong>Configuración adicional: Java offline</strong></li>
+</ol>
+<p>Para prevenir incompatibilidades con tu sistema operativo, te sugiero instalar una versión de Java que no se actualiza automáticamente.</p>
+<ul>
+<li>Desde tu explorador de internet abre: <a href="https://www.java.com/es/download/manual.jsp">https://www.java.com/es/download/manual.jsp</a></li>
+<li>Baja hasta la sección <em>Windows</em> y busca la opción que dice <em>Windows Fuera de Línea (64 bits)</em>. Haz clic en el link y descarga el instalador.</li>
+<li>Ejecuta el archivo <code>.exe</code> descargado.
+<ul>
+<li>Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”.</li>
+</ul></li>
+<li>Ejecutar el instalador y acepta las opciones por defecto.</li>
+<li>¡Listo!</li>
+</ul>
+<ol start="4" type="1">
+<li><strong>Primer arranque</strong></li>
+</ol>
+<ul>
+<li>Desde tu menú de inicio, abre <strong>RStudio</strong> (no abras R).</li>
+<li>Verifica que en la consola aparezca el prompt <code>&gt;</code> de R. Debería verse en tu pantalla una sección como la que sigue:</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="r-console.png" class="img-fluid figure-img"></p>
+<figcaption>Consola R</figcaption>
+</figure>
 </div>
-
-
-
-<div class="quarto-title-meta column-page-left">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Q3Vyc29zJTJDUg==" data-listing-date-sort="1783220400000" data-listing-file-modified-sort="1747662372475" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="574">
-<a href="./aprendeR/2025-05-19-instalaciones/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./aprendeR/2025-05-19-instalaciones/rstudio-logo.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Guía rápida de instalación de R y RStudio
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q3Vyc29z'); return false;">Cursos</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
-
+<ul>
+<li>Puedes cerrar RStudio, ¡está todo correctamente instalado!</li>
+</ul>
+</section>
+<section id="versión-para-macos" class="level2">
+<h2 class="anchored" data-anchor-id="versión-para-macos">Versión para macOS</h2>
+<ol type="1">
+<li><strong>Instalar R</strong></li>
+</ol>
+<ul>
+<li>Desde tu navegador de internet accede al repositorio oficial de R <a href="https://cran.r-project.org/">https://cran.r-project.org/</a>.</li>
+<li>Haz clic en “Download R for macOS”.</li>
+<li>Descarga el instalador <code>.pkg</code> correspondiente a tu versión de macOS. Por ejemplo, para macOS 11 o superior, <code>R-4.5.0-arm64.pkg</code></li>
+<li>Abre el archivo <code>.pkg</code> descargado y sigue las instrucciones del asistente: siguiente → aceptar licencia → instalar.
+<ul>
+<li>Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”</li>
+</ul></li>
+<li>¡Listo!</li>
+</ul>
+<ol start="2" type="1">
+<li><strong>Instalar RStudio</strong></li>
+</ol>
+<ul>
+<li>Desde tu explorador de internet abre <a href="https://posit.co/download/rstudio-desktop/">https://posit.co/download/rstudio-desktop/</a>.</li>
+<li>Baja por la web hasta la tabla de instaladores: busca la línea <em>macOS 13+</em> bajo la columna <em>OS</em>, y haz click en el archivo <code>.dmg</code> (p.&nbsp;ej. <code>RStudio-2025.05.0-496.dmg</code>) para descargar el instalador de RStudio.
+<ul>
+<li>Si no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”</li>
+</ul></li>
+<li>Abre el archivo <code>.dmg</code> y arrastra el icono de RStudio a la carpeta Aplicaciones (*Applications**) para concretar la instalación.</li>
+<li>Para corroborar la correcta instalación de RStudio, puedes observar que el programa se encuentre disponible en el <em>launchpad</em>, en donde aparecen todas las aplicaciones instaladas en el computador.</li>
+<li>¡Listo!</li>
+</ul>
+<ol start="3" type="1">
+<li><strong>Primer arranque</strong></li>
+</ol>
+<ul>
+<li>Desde tu menú de inicio anda a <em>Aplicaciones</em> y abre <strong>RStudio</strong> (no abras R).</li>
+<li>Verifica que en la consola aparezca el prompt <code>&gt;</code> de R. Debería verse en tu pantalla una sección como la que sigue:</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="r-console.png" class="img-fluid figure-img"></p>
+<figcaption>Consola R</figcaption>
+</figure>
 </div>
-<div class="card-text listing-description delink">
-<p>Tutorial para instalaciones iniciales</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Felipe Ruiz Bruzzone
-</div>
-<div class="listing-date">
-Jul 5, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Q3Vyc29zJTJDUg==" data-listing-date-sort="1754362800000" data-listing-file-modified-sort="1746731399008" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="461">
-<a href="./aprendeR/2025-03-24-curso-intro-R/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./aprendeR/2025-03-24-curso-intro-R/miniatura1.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Análisis estadístico inicial con lenguaje de programación R
-</h5>
-<div class="listing-categories">
+<ul>
+<li>Puedes cerrar RStudio, ¡está todo correctamente instalado!</li>
+</ul>
+<blockquote class="blockquote">
+<p><strong>Consejo</strong>: Mantén R y RStudio actualizados revisando periódicamente las páginas de descarga. ¡Ya estás listo para comenzar a explorar R!</p>
+</blockquote>
 
-<div class="listing-category" onclick="window.quartoListingCategory('Q3Vyc29z'); return false;">Cursos</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
+</section>
 
-</div>
-<div class="card-text listing-description delink">
-<p>Programa e inscripciones</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Felipe Ruiz Bruzzone
-</div>
-<div class="listing-date">
-Aug 5, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Notas</h2>
+
+<ol>
+<li id="fn1"><p>Es de hace algunos años y las versiones de los softwares están algo desactualizadas, pero todavía es útil.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -473,12 +499,12 @@ Aug 5, 2025
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copiado");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copiado");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",

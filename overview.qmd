@@ -19,6 +19,7 @@ about:
 En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación cuantitativa.
 
 En términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación [RStudio para Estadística Descriptiva en Ciencias Sociales](https://bookdown.org/gboccardo/manual-ED-UCH/). Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero.
+
 ---
 
 ## Overview
