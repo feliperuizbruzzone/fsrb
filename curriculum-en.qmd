@@ -15,14 +15,15 @@ felipe.ruiz\@ug.uchile.cl
 :::
 
 ## Current positions
-**Project Manager** -- Half-time <br> *[Nodo XXI Foundation](https://www.nodoxxi.cl/)* [*2019 --- present*]{.cvdate}
+**Project and Funding Director** -- Half-time <br> *[Nodo XXI Foundation](https://www.nodoxxi.cl/)* [*2019 --- present*]{.cvdate}
 
 -   Nongovernmental organization that provides political advice and research capabilities to social movements and political organizations.
 -   Member of the executive management team and responsible for both the implementation of advocacy and research projects and the relationship with international partners.
 
-**Posgraduate Researcher** -- Half-time <br> *University of Chile* [*2019 --- present*]{.cvdate}
+**Chief Executive Officer** -- Half-time <br> *[Estrategia Sur](https://estrategiasur.cl/)* [*2024 --- present*]{.cvdate}
 
--   Young academic researcher in charge of scientific projects in the economic and social fields.
+-   Consulting firm specialised in data science for strategic decision-making.
+-   Founding partner and responsible for general administrative and commercial management.
 
 ## Education
 
@@ -36,14 +37,19 @@ felipe.ruiz\@ug.uchile.cl
 **Summer School in Computational Social Sciences, Methods for Analysing Multimedia Data** -- Profesional Specialization <br> *GESIS Leibniz Institute for The Social Sciences* [*2019*]{.cvdate}
 
 ### Academic
-**Master of Science -- Social Sciences** <br> *University of Chile* [*2017 --- 2019*]{.cvdate}
+**PhD -- Social Sciences** <br> *University of Chile* [*2021 --- 2025*]{.cvdate}
+
+- Project title: [*The capitalist class in Chile today (2000–2019). A study of the Luksic and Cencosud business groups*](https://www.researchgate.net/publication/371500552_La_Clase_Capitalista_en_el_Chile_contemporaneo_1990-2020_un_estudio_basado_en_el_caso_de_los_grupos_economicos_Luksic_y_Cencosud_The_Capitalist_Class_in_Contemporary_Chile_1990-2020_A_study_based_on_t) 
+-   National Research and Development Agency. *Excellence PhD Scholarship* (2021-2025).
+
+**MSc -- Social Sciences** <br> *University of Chile* [*2017 --- 2019*]{.cvdate}
 
 - Project title: [*The entrepreneurship of the pension system in Chile (2000-2018)*](https://repositorio.uchile.cl/handle/2250/178848) 
 -   National Research and Development Agency. *Excellence MSc Scholarship* (2017-2019)
 
-**Bachelor -- Sociology** <br> *University of Chile* [*2012 --- 2016*]{.cvdate}
+**BSc -- Sociology** <br> *University of Chile* [*2012 --- 2016*]{.cvdate}
 
-## Work Experience
+## Professional Experience
 
 ### Data Scientist
 
@@ -51,38 +57,37 @@ felipe.ruiz\@ug.uchile.cl
 
 Providing data collection, pre-processing, statistical analysis and data visualization services to different clients of the private, scientific and academic sector. The last projects I was involved were:
 
+-   present-2025. *Computational systematisation of tax statistics by economic sector (2023-1998), based on annual reports from Argentina's Federal Public Revenue Administration*. Instituto de Ciencias, Universidad Nacional de General Sarmiento. *PICT-2020-SERIE-A-00496*.
 -   2024-2023. *Validation of administrative records and statistical analysis: occupational structure of Chile’s Central Government*. Law Faculty, Alberto Hurtado University. *National Fund for Scientific and Technological Development* (grant 1231868).
 -   2021-2022. *Validation and preparation of databases in reproducible format*.  Faculty of Social Sciences, Diego Portales University. *National Fund for Scientific and Technological Development* (grant 1171072).
 
 
-### Data Science Teaching
+### Data Science and Research Methods Teaching
 
 ***Lecturer & Teaching assistant***  <br> *Different institutions*[*2016 -- Present*]{.cvdate}
 
-Teaching experience as *data science instructor* in different educational contexts: universities (grade and posgraduate courses), professional specializations and particular lessons. My experience as lecturer includes:
+Teaching experience in *data science* and *research methods* in different educational contexts: universities (grade and posgraduate courses), professional specializations and particular lessons. My experience as lecturer includes:
 
 -   Foundations of the *R* programming language.
+-   Research methods in the field of social sciences, economics and humanities.
 -   Introduction to *data driven* research projects.
 -   Basic and advanced *statistical methods* in Social Sciences.
 -   *Open Science* and *Free Software* Tools for Quantitative Social Research.
 
-## Ongoing studies
+## Work in progress
+- 2026-[The chilean New Left in Government: Limits, Challenges and Lessons](). Santiago de Chile: Fondo de Cultura Económica. Co-editor. Peer-reviewed book.
 
-**Doctor of Philosophy -- Social Sciences** <br> *University of Chile* [*March 2021 --- Present*]{.cvdate}
+- 2026-[Capitalist class structure in Chile (21st century): a descriptive and multivariate quantitative characterization](https://www.tandfonline.com/journals/rfse20/about-this-journal#aims-and-scope). Paper accepted for publication. *Forum for Social Economics*, Special Issue on the Social Consequences of Development in Latin America in the 21st Century.
 
-- Project title: *[The Capitalist Class in Contemporary Chile (1990-2020). A study based on the case of the Luksic and Cencosud economic groups](https://www.researchgate.net/publication/371500552_La_Clase_Capitalista_en_el_Chile_contemporaneo_1990-2020_un_estudio_basado_en_el_caso_de_los_grupos_economicos_Luksic_y_Cencosud_The_Capitalist_Class_in_Contemporary_Chile_1990-2020_A_study_based_on_t)* 
--   National Research and Development Agency. *Excellence PhD Scholarship* (2021-2025).
--   Expected submission date: August 2025.
+- 2025-[Descriptive Statistics for Research in Communication and Social Sciences. A Brief Introduction](). En [Research Methodology in Communication and Public Opinion.](). Santiago de Chile: Ediciones Universidad Diego Portales. Peer-reviewed book.
+
+- 2025-[Computational methodology for financial information analysis in XBRL format. An initial attempt applied to business groups in Chile.](). In [Quantitative Methods in Economics](). Argentina: Editorial de la Facultad de Ciencias Económicas de la Universidad Nacional de Córdoba. Peer-reviewed book.
 
 ## Recent publications
 - 2024-[Solidarity in the contributory pension pillar. A progressive approach to discussing pensions reform](https://library.fes.de/pdf-files/bueros/chile/21701.pdf). Public Policy Report. Friedrich Ebert Stiftüng & Fundación Nodo XXI. Co-author.
 - 2024-[What to do about student loans and debts? Condone and restructuring to restore the promise of higher education](https://www.nodoxxi.cl/portada/2024/nodo-xxi-realiza-un-estudio-sobre-la-eficiencia-del-sistema-de-creditos-en-chile-y-el-impacto-del-proyecto-sobre-fin-al-cae-y-condonacion-de-deudas-estudiantiles/). Public Policy Report. Santiago de Chile: Fundación Nodo XXI. Coauthor.
-- 2024-Financiarización y poder empresarial
-en el sistema de pensiones chileno. In [Formas y mecanismos de la dominación financiera en América Latina](https://www.iis.unam.mx/formas-y-mecanismos-de-la-dominacion-financiera-en-america-latina/). México: Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México. Author.
-- 2024-What interruptions to the (intellectual and political) project of Popular Unity are still
-relevant to the present? In, Rodrigo Baño (editor). *La Unidad Popular Interrumpida*.
-Ediciones de la Facultad de Ciencias Sociales, Universidad de Chile. ISBN 978-956-19-
-1306-6.
+- 2024-[Financiarización y poder empresarial en el sistema de pensiones chileno](). In [Formas y mecanismos de la dominación financiera en América Latina](https://www.iis.unam.mx/formas-y-mecanismos-de-la-dominacion-financiera-en-america-latina/). México: Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México. Author.  Peer-reviewed book.
+- 2024-[What interruptions to the (intellectual and political) project of Popular Unity are still relevant to the present?](). In [La Unidad Popular  Interrumpida](https://facso.uchile.cl/publicaciones/221189/la-unidad-popular-interrumpida). Santiago: University of Chile, Social Sciences Faculty Editions.
 - 2023-[The job of public transport, ride-hailing, and delivery drivers: Conditions during the COVID-19 pandemic and implications for a post-pandemic future](https://doi.org/10.1016/j.tbs.2022.11.004). *Travel, Behaviour, and Society*, vol. 31, pages 63-77. Coauthor.
-- 2021-[Financialization and the construction of peripheral business power in the Chilean pension system](https://doi.org/10.1007/978-3-030-71315-7). In *Dependent Capitalisms in Contemporary Latin America and Europe*. Palgrave Macmillan. Author
+- 2021-[Financialization and the construction of peripheral business power in the Chilean pension system](https://doi.org/10.1007/978-3-030-71315-7). In *Dependent Capitalisms in Contemporary Latin America and Europe*. Palgrave Macmillan. Author.  Peer-reviewed book.
 - 2019-[Descriptive Statistical Methods for Social Sciences Using Rstudio](https://bookdown.org/gboccardo/manual-ED-UCH/). 2nd Edition. Department of Sociology, University of Chile. *Interactive online manual*. Co-author.

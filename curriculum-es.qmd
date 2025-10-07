@@ -16,14 +16,15 @@ felipe.ruiz\@ug.uchile.cl
 :::
 
 ## Posiciones actuales
-**Encargado de proyectos** -- Media Jornada <br> *[Fundación Nodo XXI](https://www.nodoxxi.cl/)* [*2019 --- actualidad*]{.cvdate}
+**Director de Proyectos y Financiamiento** -- Jornada Parcial <br> *[Fundación Nodo XXI](https://www.nodoxxi.cl/)* [*2019 --- actualidad*]{.cvdate}
 
 -   Organización no gubernamental que ofrece asesoría política y servicios de investigación a movimientos sociales y organizaciones políticas.
--   Integro la Dirección Ejecutiva Nodo XXI y mis responsabilidades son tanto la implementación de proyectos de incidencia pública e investigación, como el mantenimiento de nuestras relaciones con socios internacionales.
+-   Integro la Dirección Ejecutiva de Nodo XXI y mis responsabilidades son tanto la implementación de proyectos de incidencia pública e investigación, como el mantenimiento de nuestras relaciones con socios y financistas internacionales.
 
-**Investigador de posgrado** -- Media jornada <br> *Universidad de Chile* [*2019 --- actualidad*]{.cvdate}
+**Director Ejecutivo** -- Jornada Parcial <br> *[Estrategia Sur](https://estrategiasur.cl/)* [*2024 --- actualidad*]{.cvdate}
 
--   Investigador joven a cargo de proyectos de investigación científica en el campo social y económico. 
+-  Consultora especializada en Ciencia de Datos para decisiones estratégicas. 
+-  Soy Socio fundador y como Director Ejecutivo estoy a cargo de la gestión administrativa y comercial general de la empresa. 
 
 ## Formación
 
@@ -37,6 +38,12 @@ felipe.ruiz\@ug.uchile.cl
 **Summer School in Computational Social Sciences, Methods for Analysing Multimedia Data** -- Especialización Profesional <br> *GESIS Leibniz Institute for The Social Sciences* [*2019*]{.cvdate}
 
 ### Académica
+
+**Doctorado -- Ciencias Sociales** <br> *Universidad de Chile* [*2021 --- 2025*]{.cvdate}
+
+- Tesis: [*La clase capitalista en el Chile actual (2000-2019). Un estudio sobre los grupos económicos Luksic y Cencosud*]().
+-   Agencia Nacional de Investigación y Desarrollo. *Beca de Doctorado Nacional* (2021-2025)
+
 **Maestría -- Ciencias Sociales** <br> *Universidad de Chile* [*2017 --- 2019*]{.cvdate}
 
 - Tesis: [*El empresariado del sistema de pensiones en Chile (2000-2018)*](https://repositorio.uchile.cl/handle/2250/178848) 
@@ -52,38 +59,43 @@ felipe.ruiz\@ug.uchile.cl
 
 Presto servicios de recopilación, preprocesamiento, análisis estadístico y visualización de datos a distintos clientes del sector privado, científico y académico. Los últimos proyectos en los que he participado fueron:
 
+-   actualidad-2025. *Sistematización Computacional de Estadísticas Tributarias según rama económica (2023-1998), en base a informes anuales de la administración Federal de Ingresos Públicos de Argentina*. Instituto de Ciencias, Universidad Nacional de General Sarmiento. *Proyecto PICT-2020-SERIE-A-00496*.
 -   2024-2023. *Validación de registros administrativos y construcción de resultados de estadística: estructura ocupacional del Gobierno Central de Chile*. Facultad de Derecho, Universidad Alberto Hurtado. *Fondo Nacional de Desarrollo Científico y Tecnológico* (ID 1231868).
 -   2021-2022. *Validación, documentación y publicación de bases de datos en formato reproducible*.  Facultad de Ciencias Sociales, Universidad Diego Portales. *Fondo Nacional de Desarrollo Científico y Tecnológico* (ID 1171072).
 
 
-### Docencia en Ciencia de Datos
+### Docencia en Métodos de Investigación y Ciencia de Datos
 
 ***Profesor y Asistente de Docencia***  <br> *Diferentes instituciones*[*2016 -- actualidad*]{.cvdate}
 
-Experiencia como docente en *Ciencia de Datos* en diferentes contextos educativos: universidades (grado y posgrado), especializaciones profesionales y clases particulares. He impartido cursos sobre:
+Experiencia como docente en *Ciencia de Datos* y *Métodos de Investigación* en diferentes contextos educativos: universidades (grado y posgrado), especializaciones profesionales y clases particulares. He impartido cursos sobre:
 
 - Fundamentos del lenguaje de programación *R*.
+- Diseños de investigación en el ámbito de las ciencias sociales, económicas y humanas.
 - Introducción a proyectos de investigación de *Ciencia de Datos*.
 - Métodos *estadísticos* básicos y avanzados para las Ciencias Sociales.
 - Herramientas desde la *Ciencia Abierta* y el *Software Libre* para la Investigación Social.
 
-## Estudios en curso
+## Trabajos en curso
+- 2026-[La Nueva Izquierda en el gobierno: límites, desafíos y aprendizajes](). Santiago de Chile: Fondo de Cultura Económica. Coeditor de libro con referato.
 
-**Doctorado -- Ciencias Sociales** <br> *Universidad de Chile* [*Marzo 2021 --- actualidad*]{.cvdate}
+- 2026-[Capitalist class structure in Chile (21st century): a descriptive and multivariate quantitative characterization](https://www.tandfonline.com/journals/rfse20/about-this-journal#aims-and-scope). Paper aceptado para publicación. *Forum for Social Economics*, Special Issue on the Social Consequences of Development in Latin America in the 21st Century.
 
-- Proyecto de tesis: *[La Clase Capitalista en el Chile contemporáneo (1990-2020): un estudio basado en el caso de los grupos económicos Luksic y Cencosud](https://www.researchgate.net/publication/371500552_La_Clase_Capitalista_en_el_Chile_contemporaneo_1990-2020_un_estudio_basado_en_el_caso_de_los_grupos_economicos_Luksic_y_Cencosud_The_Capitalist_Class_in_Contemporary_Chile_1990-2020_A_study_based_on_t)* 
--   Agencia Nacional de Investigación y Desarrollo. *Beca para Estudios de Doctorado* (2021-2025).
--   Fecha de término esperada: Agosto 2025.
+- 2025-[Estadística Descriptiva para la investigación en Comunicación y Ciencias Sociales. Una breve introducción](). En [Metodología de Investigación en Comunicación y Opinión Pública](). Santiago de Chile: Ediciones Universidad Diego Portales. Libro con referato.
+
+- 2025-[Metodología computacional para el análisis de información financiera en formato XBRL. Un primer esfuerzo aplicado a grupos económicos de Chile](). En [Métodos cuantitativos en Ciencias Económicas](). Argentina: Editorial de la Facultad de Ciencias Económicas de la Universidad Nacional de Córdoba. Libro con referato.
 
 ## Publicaciones recientes
+- 2024-[¿Qué interrupciones del proyecto (intelectual y político) de la Unidad Popular siguen siendo relevantes para el presente?](). En [La Unidad Popular Interrumpida](https://facso.uchile.cl/publicaciones/221189/la-unidad-popular-interrumpida). Santiago de Chile: Ediciones de la Facultad de Ciencias Sociales de la Universidad de Chile. Autor. Libro con referato.
+
 - 2024-[Solidaridad en el pilar contributivo de pensiones. Aproximación progresista para discutir la reforma](https://library.fes.de/pdf-files/bueros/chile/21701.pdf). Documento de Política Pública. Friedrich Ebert Stiftüng y Fundación Nodo XXI. Coautor.
 
 - 2024-[¿Qué hacer con los créditos y deudas estudiantiles? Condonar y reestructurar para recuperar la promesa de la educación superior](https://www.nodoxxi.cl/portada/2024/nodo-xxi-realiza-un-estudio-sobre-la-eficiencia-del-sistema-de-creditos-en-chile-y-el-impacto-del-proyecto-sobre-fin-al-cae-y-condonacion-de-deudas-estudiantiles/). Documento de Política Pública. Fundación Nodo XXI. Coautor.
 
-- 2024-Financiarización y poder empresarial en el sistema de pensiones chileno. En [Formas y mecanismos de la dominación financiera en América Latina](https://www.iis.unam.mx/formas-y-mecanismos-de-la-dominacion-financiera-en-america-latina/). México: Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México. Autor.
+- 2024-Financiarización y poder empresarial en el sistema de pensiones chileno. En [Formas y mecanismos de la dominación financiera en América Latina](https://www.iis.unam.mx/formas-y-mecanismos-de-la-dominacion-financiera-en-america-latina/). México: Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México. Autor. Libro con referato.
 
 - 2023-[The job of public transport, ride-hailing, and delivery drivers: Conditions during the COVID-19 pandemic and implications for a post-pandemic future](https://doi.org/10.1016/j.tbs.2022.11.004). *Travel, Behaviour, and Society*, vol. 31, pages 63-77. Coautor.
 
-- 2021-[Financialization and the construction of peripheral business power in the Chilean pension system](https://doi.org/10.1007/978-3-030-71315-7). En *Dependent Capitalisms in Contemporary Latin America and Europe*. Palgrave Macmillan. Autor.
+- 2021-[Financialization and the construction of peripheral business power in the Chilean pension system](https://doi.org/10.1007/978-3-030-71315-7). En *Dependent Capitalisms in Contemporary Latin America and Europe*. Palgrave Macmillan. Autor. Libro con referato.
 
 - 2019-[RStudio para Estadística Descriptiva en Ciencias Sociales](https://bookdown.org/gboccardo/manual-ED-UCH/). 2a edición. Departmento de Sociología, Universidad de Chile. *Manual online interactivo*. Coautor.
