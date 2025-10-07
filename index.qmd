@@ -11,7 +11,7 @@ about:
     - text: ResearchGate
       href: https://www.researchgate.net/profile/Felipe-Ruiz-13     
     - text: LinkedIn
-      href: https://www.linkedin.com/in/felipe-stefano-ruiz-bruzzone-71b068169/
+      href: www.linkedin.com/in/felipe-ruiz-bruzzone-71b068169
     - text: GitHub
       href: https://github.com/feliperuizbruzzone
 
