@@ -37,17 +37,17 @@ felipe.ruiz\@ug.uchile.cl
 **Summer School in Computational Social Sciences, Methods for Analysing Multimedia Data** -- Profesional Specialization <br> *GESIS Leibniz Institute for The Social Sciences* [*2019*]{.cvdate}
 
 ### Academic
-**PhD -- Social Sciences** <br> *University of Chile* [*2021 --- 2025*]{.cvdate}
+**PhD -- Social Sciences** <br> *University of Chile* [*2026*]{.cvdate}
 
-- Project title: [*The capitalist class in Chile today (2000–2019). A study of the Luksic and Cencosud business groups*](https://www.researchgate.net/publication/371500552_La_Clase_Capitalista_en_el_Chile_contemporaneo_1990-2020_un_estudio_basado_en_el_caso_de_los_grupos_economicos_Luksic_y_Cencosud_The_Capitalist_Class_in_Contemporary_Chile_1990-2020_A_study_based_on_t) 
+- Thesis title: [*The capitalist class in Chile today (2000–2019). A study of the Luksic and Cencosud business groups*](https://www.researchgate.net/publication/371500552_La_Clase_Capitalista_en_el_Chile_contemporaneo_1990-2020_un_estudio_basado_en_el_caso_de_los_grupos_economicos_Luksic_y_Cencosud_The_Capitalist_Class_in_Contemporary_Chile_1990-2020_A_study_based_on_t) 
 -   National Research and Development Agency. *Excellence PhD Scholarship* (2021-2025).
 
-**MSc -- Social Sciences** <br> *University of Chile* [*2017 --- 2019*]{.cvdate}
+**MSc -- Social Sciences** <br> *University of Chile* [*2019*]{.cvdate}
 
-- Project title: [*The entrepreneurship of the pension system in Chile (2000-2018)*](https://repositorio.uchile.cl/handle/2250/178848) 
+- Thesis title: [*The entrepreneurship of the pension system in Chile (2000-2018)*](https://repositorio.uchile.cl/handle/2250/178848) 
 -   National Research and Development Agency. *Excellence MSc Scholarship* (2017-2019)
 
-**BSc -- Sociology** <br> *University of Chile* [*2012 --- 2016*]{.cvdate}
+**BSc -- Sociology** <br> *University of Chile* [*2016*]{.cvdate}
 
 ## Professional Experience
 
@@ -77,13 +77,11 @@ Teaching experience in *data science* and *research methods* in different educat
 ## Work in progress
 - 2026-[The chilean New Left in Government: Limits, Challenges and Lessons](). Santiago de Chile: Fondo de Cultura Económica. Co-editor. Peer-reviewed book.
 
-- 2026-[Capitalist class structure in Chile (21st century): a descriptive and multivariate quantitative characterization](https://www.tandfonline.com/journals/rfse20/about-this-journal#aims-and-scope). Paper accepted for publication. *Forum for Social Economics*, Special Issue on the Social Consequences of Development in Latin America in the 21st Century.
-
 - 2025-[Descriptive Statistics for Research in Communication and Social Sciences. A Brief Introduction](). En [Research Methodology in Communication and Public Opinion.](). Santiago de Chile: Ediciones Universidad Diego Portales. Peer-reviewed book.
 
-- 2025-[Computational methodology for financial information analysis in XBRL format. An initial attempt applied to business groups in Chile.](). In [Quantitative Methods in Economics](). Argentina: Editorial de la Facultad de Ciencias Económicas de la Universidad Nacional de Córdoba. Peer-reviewed book.
-
 ## Recent publications
+- 2025-[Capitalist class structure in Chile (21st century): a descriptive and multivariate quantitative characterization](https://doi.org/10.1080/07360932.2025.2594524). *Forum for Social Economics*, Special Issue on the Social Consequences of Development in Latin America in the 21st Century.
+- 2025-[Computational methodology for the analysis of financial information in XBRL format. An initial effort applied to economic groups in Chile](https://www.researchgate.net/publication/398951801_Analisis_computacional_de_informacion_financiera_en_formato_XBRL_Una_aplicacion_a_grupos_economicos_de_Chile_2000-2019). En [Quantitative research: recent methodological strategies for doctoral theses in Economic and Social Sciences](http://hdl.handle.net/11086/559603). Argentina:  Publisher of the Faculty of Economic Sciences of the National University of Córdoba. Peer-reviewed book.
 - 2024-[Solidarity in the contributory pension pillar. A progressive approach to discussing pensions reform](https://library.fes.de/pdf-files/bueros/chile/21701.pdf). Public Policy Report. Friedrich Ebert Stiftüng & Fundación Nodo XXI. Co-author.
 - 2024-[What to do about student loans and debts? Condone and restructuring to restore the promise of higher education](https://www.nodoxxi.cl/portada/2024/nodo-xxi-realiza-un-estudio-sobre-la-eficiencia-del-sistema-de-creditos-en-chile-y-el-impacto-del-proyecto-sobre-fin-al-cae-y-condonacion-de-deudas-estudiantiles/). Public Policy Report. Santiago de Chile: Fundación Nodo XXI. Coauthor.
 - 2024-[Financiarización y poder empresarial en el sistema de pensiones chileno](). In [Formas y mecanismos de la dominación financiera en América Latina](https://www.iis.unam.mx/formas-y-mecanismos-de-la-dominacion-financiera-en-america-latina/). México: Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México. Author.  Peer-reviewed book.

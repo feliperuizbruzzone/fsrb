@@ -28,6 +28,6 @@ Recorriendo las secciones podrás acceder a una breve presentación sobre mi per
 # Acerca de mí
 De formación inicial soy Sociólogo (Universidad de Chile) y profesionalmente me he especializado en el área de la Ciencia de Datos.
 
-En paralelo he seguido una carrera de formación académica. Soy Doctor(c.) en Ciencias Sociales por la la Universidad de Chile, gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025). En 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile.
+En paralelo he seguido una carrera de formación académica. Soy Doctor en Ciencias Sociales por la Universidad de Chile, gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025). En 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile.
 
 Me involucro activamente en el debate público participando como investigador en la [Fundación Nodo XXI](https://www.nodoxxi.cl/). También soy Director Ejecutivo (CEO) de [Estrategia Sur](https://estrategiasur.cl/), una consultora en Ciencia de Datos para decisiones estratégicas.

@@ -39,17 +39,17 @@ felipe.ruiz\@ug.uchile.cl
 
 ### Académica
 
-**Doctorado -- Ciencias Sociales** <br> *Universidad de Chile* [*2021 --- 2025*]{.cvdate}
+**Doctorado -- Ciencias Sociales** <br> *Universidad de Chile* [*2026*]{.cvdate}
 
 - Tesis: [*La clase capitalista en el Chile actual (2000-2019). Un estudio sobre los grupos económicos Luksic y Cencosud*]().
 -   Agencia Nacional de Investigación y Desarrollo. *Beca de Doctorado Nacional* (2021-2025)
 
-**Maestría -- Ciencias Sociales** <br> *Universidad de Chile* [*2017 --- 2019*]{.cvdate}
+**Maestría -- Ciencias Sociales** <br> *Universidad de Chile* [*2019*]{.cvdate}
 
 - Tesis: [*El empresariado del sistema de pensiones en Chile (2000-2018)*](https://repositorio.uchile.cl/handle/2250/178848) 
 -   Agencia Nacional de Investigación y Desarrollo. *Beca de Magíster Nacional* (2017-2019)
 
-**Licenciatura -- Sociología** <br> *Universidad de Chile* [*2012 --- 2016*]{.cvdate}
+**Licenciatura -- Sociología** <br> *Universidad de Chile* [*2016*]{.cvdate}
 
 ## Experiencia Laboral
 
@@ -78,14 +78,14 @@ Experiencia como docente en *Ciencia de Datos* y *Métodos de Investigación* en
 
 ## Trabajos en curso
 - 2026-[La Nueva Izquierda en el gobierno: límites, desafíos y aprendizajes](). Santiago de Chile: Fondo de Cultura Económica. Coeditor de libro con referato.
-
-- 2026-[Capitalist class structure in Chile (21st century): a descriptive and multivariate quantitative characterization](https://www.tandfonline.com/journals/rfse20/about-this-journal#aims-and-scope). Paper aceptado para publicación. *Forum for Social Economics*, Special Issue on the Social Consequences of Development in Latin America in the 21st Century.
-
 - 2025-[Estadística Descriptiva para la investigación en Comunicación y Ciencias Sociales. Una breve introducción](). En [Metodología de Investigación en Comunicación y Opinión Pública](). Santiago de Chile: Ediciones Universidad Diego Portales. Libro con referato.
 
-- 2025-[Metodología computacional para el análisis de información financiera en formato XBRL. Un primer esfuerzo aplicado a grupos económicos de Chile](). En [Métodos cuantitativos en Ciencias Económicas](). Argentina: Editorial de la Facultad de Ciencias Económicas de la Universidad Nacional de Córdoba. Libro con referato.
-
 ## Publicaciones recientes
+
+- 2025-[Capitalist class structure in Chile (21st century): a descriptive and multivariate quantitative characterization](https://doi.org/10.1080/07360932.2025.2594524). *Forum for Social Economics*, Special Issue on the Social Consequences of Development in Latin America in the 21st Century.
+
+- 2025-[Metodología computacional para el análisis de información financiera en formato XBRL. Un primer esfuerzo aplicado a grupos económicos de Chile](https://www.researchgate.net/publication/398951801_Analisis_computacional_de_informacion_financiera_en_formato_XBRL_Una_aplicacion_a_grupos_economicos_de_Chile_2000-2019). En [Investigación cuantitativa: estrategias metodológicas recientes para tesis doctorales en Ciencias Económicas y Sociales](http://hdl.handle.net/11086/559603). Argentina: Editorial de la Facultad de Ciencias Económicas de la Universidad Nacional de Córdoba. Libro con referato.
+
 - 2024-[¿Qué interrupciones del proyecto (intelectual y político) de la Unidad Popular siguen siendo relevantes para el presente?](). En [La Unidad Popular Interrumpida](https://facso.uchile.cl/publicaciones/221189/la-unidad-popular-interrumpida). Santiago de Chile: Ediciones de la Facultad de Ciencias Sociales de la Universidad de Chile. Autor. Libro con referato.
 
 - 2024-[Solidaridad en el pilar contributivo de pensiones. Aproximación progresista para discutir la reforma](https://library.fes.de/pdf-files/bueros/chile/21701.pdf). Documento de Política Pública. Friedrich Ebert Stiftüng y Fundación Nodo XXI. Coautor.
