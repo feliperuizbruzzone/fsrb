@@ -1,0 +1,86 @@
+---
+title: "Taller introductorio al análisis de datos sociales mediante programación"
+description: "Programa y cronograma tentativos"
+author:
+  - name: Felipe Ruiz Bruzzone
+    url: https://feliperuizbruzzone.github.io/fsrb/
+    orcid: 000-0001-5122-8775
+    affiliation: aprende**R**
+date: today
+categories: [Cursos, R] # self-defined categories
+image: data-science.jpeg
+lang: es
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+# Descripción
+
+Este taller tiene como **objetivo** que las y los participantes desarrollen las capacidades para efectuar análisis estadístico descriptivo de manera autónoma, usando lenguaje de programación R.
+
+La **modalidad de taller** implica una combinación equilibrada entre *sesiones lectivas* y *sesiones de trabajo individual* donde el protagonismo lo tendrán las y los participantes.
+
+El público objetivo son personas ya formadas en un sentido profesional y/o académico, que precisen aprender o reforzar su manejo de los fundamentos del análisis estadístico y aplicar tales herramientas de manera práctica al análisis de datos mediante lenguaje R. 
+
+Para una adecuada personalización la **cantidad de cupos es limitada a 5 personas**.
+
+# Requisitos
+
+- **Formación intermedia en investigación social**, con especial énfasis en metodología de investigación y estadística orientada al análisis de de datos sociales. 
+- El carácter de **taller** supone que cada participante traiga un **interés autónomo de trabajo**; en concreto, supone disponer de un conjunto de datos y expectativas de análisis a desarrollar durante las sesiones.
+- Debido a que es un curso virtual, se espera que cada persona disponga de un *computador personal* con *conexión a internet* estable.
+
+# Objetivos de aprendizaje
+
+## Objetivo general
+
+- Aprender los fundamentos teóricos del análisis estadístico descriptivo y su aplicación en casos reales mediante lenguaje de programación R.
+
+## Objetivos específicos
+- Identificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación.
+- Manejar los conceptos básicos del análisis estadístico descriptivo.
+- Conocer los fundamentos de la programación orientada al análisis estadístico con R.
+- Desarrollar de manera autónoma análisis estadístico descriptivo de bases de datos usando R.
+- Describir e interpretar resultados de estadística descriptiva para contextos profesionales y académicos.
+
+# Metodología de aprendizaje
+- Tendremos 6 sesiones de 120 minutos de duración, combinando instancias lectivas e instancias de taller.
+- Se dará acceso a material de código, bases de datos y referencias utilizadas a lo largo del curso: cada estudiante se llevará un material ya construido en base al cual podrá continuar su aprendizaje.
+- Debido al carácter aplicado, cada estudiante comenzará rápidamente a implementar el uso de R y RStudio para sus propios fines de investigación.
+
+# Contenidos y calendarización
+
+```{r}
+#| label: tbl-cronograma
+#| tbl-cap: Contenidos y calendarización
+#| echo: false
+cronograma <- read.csv("cronograma-taller-R.csv")
+library(kableExtra)
+kableExtra::kable(cronograma, col.names = c("ID", "Sesión", "Fecha", "Horario")) %>%
+  kableExtra::collapse_rows(columns = 4, valign = "middle") %>% 
+  kableExtra::kable_styling(bootstrap_options = c("striped","bordered","hover","condensed","responsive"))
+```
+
+# Costo, forma de pago e inscripciones
+
+El costo bruto del curso (incluye impuestos y cotizaciones sociales) es variable según la cantidad de personas inscritas. No obstante, se propone una lógica de escala: en la medida que hay más participantes, el valor individual a aportar es menor. El pago se realizará mediante transferencia electrónica contra boleta de honorarios electrónica. 
+
+```{r}
+#| label: tbl-costo
+#| tbl-cap: Costo total e individual del curso, segun cantidad de participantes
+#| echo: false
+cronograma <- read.csv("costo-taller-R.csv")
+library(kableExtra)
+kableExtra::kable(cronograma, col.names = c("Participantes", "Costo bruto total", "Costo bruto individual")) %>%
+  kableExtra::kable_styling(bootstrap_options = c("striped","bordered","hover","condensed","responsive"))
+```
+El costo indicado incluye el acceso a las sesiones (sincrónicas y asincrónicas), así como al material de aprendizaje, que se compartirá de manera online a todas y todos los participantes.
+
+- El valor del cupo individual se confirmará una vez se conforme el grupo completo que participará en el taller.
+
+# Docente
+[Felipe Ruiz Bruzzone](https://feliperuizbruzzone.github.io/fsrb/) (Chile). Sociólogo, PhD y MSc en Ciencias Sociales por la Universidad de Chile.
+
+- Con amplia experiencia en docencia, investigación académica y consultoría profesional en análisis computacional de información.
+- Coautor del renombrado manual [RStudio para Estadística Descriptiva en Ciencias Sociales](https://bookdown.org/gboccardo/manual-ED-UCH/) (FACSO-UCH).
+- Especializado profesionalmente y certificado como docente en el ámbito de la Ciencia de Datos (*John Hopkins University* / *The Carpentries*). 
+- Socio fundador y CEO en [Estrategia Sur](https://estrategiasur.cl/). Director e investigador de la [Fundación Nodo XXI](www.nodoxxi.cl). 
+- Más detalles sobre trayectoria académica y profesional en [portafolio online](https://feliperuizbruzzone.github.io/fsrb/).
