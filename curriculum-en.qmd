@@ -75,9 +75,10 @@ Teaching experience in *data science* and *research methods* in different educat
 -   *Open Science* and *Free Software* Tools for Quantitative Social Research.
 
 ## Work in progress
-- 2026-[The chilean New Left in Government: Limits, Challenges and Lessons](). Santiago de Chile: Fondo de Cultura Económica. Co-editor. Peer-reviewed book.
-
-- 2025-[Descriptive Statistics for Research in Communication and Social Sciences. A Brief Introduction](). En [Research Methodology in Communication and Public Opinion.](). Santiago de Chile: Ediciones Universidad Diego Portales. Peer-reviewed book.
+- 2026-[Transformations in the reproduction of the population of Petorca (Chile) and the dispute over water during the expansion of the agricultural frontier (1990–2022)](). Draft in progress for [Waterlat-Gobacit Network Working Papers](https://waterlat.org/working-papers-series/). Co-authored with: Javiera Rojas Cifuentes.
+- 2026-[The chilean New Left in Government: Limits, Challenges and Lessons](). Santiago de Chile: Fondo de Cultura Económica. Co-author. Peer-reviewed book.
+- 2026-[Descriptive Statistics for Research in Communication and Social Sciences. A Brief Introduction](). In [Research Methodology in Communication and Public Opinion.](). Santiago de Chile: Ediciones Universidad Diego Portales. Peer-reviewed book.
+- 2026-[International expansion and wealth capture in Chilean economic groups during the 21st century](). Draft in progress for [Socioeconomic Review](https://academic.oup.com/ser).
 
 ## Recent publications
 - 2025-[Capitalist class structure in Chile (21st century): a descriptive and multivariate quantitative characterization](https://doi.org/10.1080/07360932.2025.2594524). *Forum for Social Economics*, Special Issue on the Social Consequences of Development in Latin America in the 21st Century.
