@@ -1,6 +1,6 @@
 ---
-title: "Curso personalizado: análisis de datos sociales usando R"
-description: "Programa, cronograma y valores tentativos"
+title: "Análisis estadístico inicial con lenguaje de programación R+IA: curso personalizado"
+description: "Programa, cronograma y tarifa"
 author:
   - name: Felipe Ruiz Bruzzone
     url: https://feliperuizbruzzone.github.io/fsrb/
@@ -12,19 +12,22 @@ image: data-science.jpeg
 lang: es
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
+
+![](Flyer 1 variación 1 - liviana.png)
+
 # Descripción
 
 Este curso tiene como **objetivo** que las y los participantes desarrollen las capacidades para efectuar análisis estadístico descriptivo de manera autónoma, usando lenguaje de programación R.
 
 La **modalidad de aprendizaje** propuesta implica una combinación equilibrada entre *sesiones lectivas* y *sesiones de trabajo individual* donde el protagonismo lo tendrán las y los participantes.
 
-El público objetivo son personas ya formadas en un sentido profesional y/o académico, que precisen aprender o reforzar su manejo de los fundamentos del análisis estadístico y aplicar tales herramientas de manera práctica al análisis de datos mediante lenguaje R. 
+El público objetivo son personas ya formadas en un sentido profesional y/o académico, que precisen aprender *simultáneamente* los fundamentos del análisis estadístico y su apliación práctica al análisis de datos mediante lenguaje R. 
 
 Para una adecuada personalización la **cantidad máxima de cupos es limitada a 5 personas**.
 
 # Requisitos
 
-- **Formación - al menos - intermedia en investigación social**, con especial énfasis en metodología de investigación y estadística orientada al análisis de de datos sociales. 
+- **Formación básica en investigación social** (no excluyente), con especial énfasis en metodología de investigación y estadística orientada al análisis de de datos sociales. 
 - La **modalidad de aprendizaje** supone que cada participante traiga un **interés autónomo de trabajo**; en concreto, supone disponer de un conjunto de datos y expectativas de análisis a desarrollar durante las sesiones.
 - Debido a que es un curso virtual, se espera que cada persona disponga de un *computador personal* con *conexión a internet* estable.
 
@@ -32,10 +35,10 @@ Para una adecuada personalización la **cantidad máxima de cupos es limitada a 
 
 ## Objetivo general
 
-- Aprender los fundamentos teóricos del análisis estadístico descriptivo y su aplicación en casos reales mediante lenguaje de programación R.
+- Aprender los fundamentos teóricos del *análisis estadístico descriptivo* y su aplicación en casos reales mediante *lenguaje de programación R*.
 
 ## Objetivos específicos
-- Identificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación.
+- Identificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación y las tendencias emergentes en *IA*.
 - Manejar los conceptos básicos del análisis estadístico descriptivo.
 - Conocer los fundamentos de la programación orientada al análisis estadístico con R.
 - Desarrollar de manera autónoma análisis estadístico descriptivo de bases de datos usando R, integrando el apoyo de herramientas de *inteligencia artificial*.
@@ -61,20 +64,9 @@ kableExtra::kable(cronograma, col.names = c("ID", "Sesión", "Fecha", "Horario")
 
 # Costo, forma de pago e inscripciones
 
-El costo bruto del curso (incluye impuestos y cotizaciones sociales) es variable según la cantidad de personas inscritas. No obstante, se propone una lógica de escala: en la medida que hay más participantes, el valor individual a aportar es menor. El pago se realizará mediante transferencia electrónica contra boleta de honorarios electrónica. 
-
-```{r}
-#| label: tbl-costo
-#| tbl-cap: Costo total e individual del curso, segun cantidad de participantes
-#| echo: false
-cronograma <- read.csv("costo-taller-R.csv")
-library(kableExtra)
-kableExtra::kable(cronograma, col.names = c("Participantes", "Costo bruto total", "Costo bruto individual")) %>%
-  kableExtra::kable_styling(bootstrap_options = c("striped","bordered","hover","condensed","responsive"))
-```
-El costo indicado incluye el acceso a las sesiones (sincrónicas y asincrónicas), así como al material de aprendizaje, que se compartirá de manera online a todas y todos los participantes.
-
-- El valor del cupo individual se confirmará una vez se conforme el grupo completo que participará en el taller.
+- El costo total del curso (incluye impuestos y cotizaciones sociales) es de 250.000 CLP (250 USD para equivalencia con otras monedas). 
+- El pago se realizará mediante transferencia electrónica para confirmar la inscripción. 
+- El costo indicado incluye el acceso a las sesiones de modo sincrónico y asincrónico, así como al material de aprendizaje, que se compartirá de manera online a todas y todos los participantes.
 
 # Docente
 [Felipe Ruiz Bruzzone](https://feliperuizbruzzone.github.io/fsrb/) (Chile). Sociólogo, PhD y MSc en Ciencias Sociales por la Universidad de Chile.

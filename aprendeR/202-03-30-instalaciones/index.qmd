@@ -6,7 +6,7 @@ author:
     url: https://feliperuizbruzzone.github.io/fsrb/
     orcid: 000-0001-5122-8775
     affiliation: aprende**R**
-date: 19-05-2025
+date: today
 categories: [Cursos, R] # self-defined categories
 image: rstudio-logo.png
 lang: es

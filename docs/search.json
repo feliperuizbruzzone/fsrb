@@ -7,53 +7,32 @@
     "text": "Presentación\n¡Hola! Este sitio funciona principalmente como repositorio de mis actividades; tanto en el plano académico, profesional como en relación a otras actividades que me interesan.\nRecorriendo las secciones podrás acceder a una breve presentación sobre mi perfil, materiales de apoyo para mis cursos, principales publicaciones, entre otras.\n\n\n\nAcerca de mí\nDe formación inicial soy Sociólogo (Universidad de Chile) y profesionalmente me he especializado en el área de la Ciencia de Datos.\nEn paralelo he seguido una carrera de formación académica. Soy Doctor en Ciencias Sociales por la Universidad de Chile, gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025). En 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile.\nMe involucro activamente en el debate público participando como investigador en la Fundación Nodo XXI. También soy Director Ejecutivo (CEO) de Estrategia Sur, una consultora en Ciencia de Datos para decisiones estratégicas."
   },
   {
-    "objectID": "aprendeR/2025-05-19-instalaciones/index.html",
-    "href": "aprendeR/2025-05-19-instalaciones/index.html",
-    "title": "Guía rápida de instalación de R y RStudio",
-    "section": "",
-    "text": "A continuación encontrarás las instrucciones para instalar R y RStudio, tanto para Windows como para macOS. En este enlace encontrarás un tutorial de instalación con capturas de pantalla.1"
-  },
-  {
-    "objectID": "aprendeR/2025-05-19-instalaciones/index.html#versión-para-windows",
-    "href": "aprendeR/2025-05-19-instalaciones/index.html#versión-para-windows",
-    "title": "Guía rápida de instalación de R y RStudio",
-    "section": "Versión para Windows",
-    "text": "Versión para Windows\n\nInstalar R\n\n\nAbre el navegador y accede al repositorio oficial de R: https://cran.r-project.org/.\nHaz clic en “Download R for Windows”.\nPulsa “base” y luego en “Download R 4.5.0 for Windows” (última versión).\nEjecuta el archivo .exe descargado.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”.\n\nSigue las instrucciones por defecto del asistente: aceptar licencia, ruta por defecto (p. ej. C:\\Program Files\\R\\R-4.x.x), opciones recomendadas.\n¡Listo!\n\n\nInstalar RStudio\n\n\nDesde tu explorador de internet abre: https://posit.co/download/rstudio-desktop/.\nBaja por la web hasta la tabla de instaladores: busca la línea Windows 10/11 bajo la columna OS, y haz click en el archivo .exe (p. ej. RStudio-2025.05.0-496.exe) para descargar el instalador de RStudio.\nEjecuta el archivo .exe descargado.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”.\n\nEjecuta el instalador y acepta las opciones por defecto.\n¡Listo!\n\n\nConfiguración adicional: Java offline\n\nPara prevenir incompatibilidades con tu sistema operativo, te sugiero instalar una versión de Java que no se actualiza automáticamente.\n\nDesde tu explorador de internet abre: https://www.java.com/es/download/manual.jsp\nBaja hasta la sección Windows y busca la opción que dice Windows Fuera de Línea (64 bits). Haz clic en el link y descarga el instalador.\nEjecuta el archivo .exe descargado.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”.\n\nEjecutar el instalador y acepta las opciones por defecto.\n¡Listo!\n\n\nPrimer arranque\n\n\nDesde tu menú de inicio, abre RStudio (no abras R).\nVerifica que en la consola aparezca el prompt &gt; de R. Debería verse en tu pantalla una sección como la que sigue:\n\n\n\n\nConsola R\n\n\n\nPuedes cerrar RStudio, ¡está todo correctamente instalado!"
-  },
-  {
-    "objectID": "aprendeR/2025-05-19-instalaciones/index.html#versión-para-macos",
-    "href": "aprendeR/2025-05-19-instalaciones/index.html#versión-para-macos",
-    "title": "Guía rápida de instalación de R y RStudio",
-    "section": "Versión para macOS",
-    "text": "Versión para macOS\n\nInstalar R\n\n\nDesde tu navegador de internet accede al repositorio oficial de R https://cran.r-project.org/.\nHaz clic en “Download R for macOS”.\nDescarga el instalador .pkg correspondiente a tu versión de macOS. Por ejemplo, para macOS 11 o superior, R-4.5.0-arm64.pkg\nAbre el archivo .pkg descargado y sigue las instrucciones del asistente: siguiente → aceptar licencia → instalar.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”\n\n¡Listo!\n\n\nInstalar RStudio\n\n\nDesde tu explorador de internet abre https://posit.co/download/rstudio-desktop/.\nBaja por la web hasta la tabla de instaladores: busca la línea macOS 13+ bajo la columna OS, y haz click en el archivo .dmg (p. ej. RStudio-2025.05.0-496.dmg) para descargar el instalador de RStudio.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”\n\nAbre el archivo .dmg y arrastra el icono de RStudio a la carpeta Aplicaciones (*Applications**) para concretar la instalación.\nPara corroborar la correcta instalación de RStudio, puedes observar que el programa se encuentre disponible en el launchpad, en donde aparecen todas las aplicaciones instaladas en el computador.\n¡Listo!\n\n\nPrimer arranque\n\n\nDesde tu menú de inicio anda a Aplicaciones y abre RStudio (no abras R).\nVerifica que en la consola aparezca el prompt &gt; de R. Debería verse en tu pantalla una sección como la que sigue:\n\n\n\n\nConsola R\n\n\n\nPuedes cerrar RStudio, ¡está todo correctamente instalado!\n\n\nConsejo: Mantén R y RStudio actualizados revisando periódicamente las páginas de descarga. ¡Ya estás listo para comenzar a explorar R!"
-  },
-  {
-    "objectID": "aprendeR/2025-05-19-instalaciones/index.html#footnotes",
-    "href": "aprendeR/2025-05-19-instalaciones/index.html#footnotes",
-    "title": "Guía rápida de instalación de R y RStudio",
-    "section": "Notas",
-    "text": "Notas\n\n\nEs de hace algunos años y las versiones de los softwares están algo desactualizadas, pero todavía es útil.↩︎"
-  },
-  {
-    "objectID": "aprendeR/2026-01-26-taller-R/index.html",
-    "href": "aprendeR/2026-01-26-taller-R/index.html",
-    "title": "Curso personalizado: análisis de datos sociales usando R",
-    "section": "",
-    "text": "Este curso tiene como objetivo que las y los participantes desarrollen las capacidades para efectuar análisis estadístico descriptivo de manera autónoma, usando lenguaje de programación R.\nLa modalidad de aprendizaje propuesta implica una combinación equilibrada entre sesiones lectivas y sesiones de trabajo individual donde el protagonismo lo tendrán las y los participantes.\nEl público objetivo son personas ya formadas en un sentido profesional y/o académico, que precisen aprender o reforzar su manejo de los fundamentos del análisis estadístico y aplicar tales herramientas de manera práctica al análisis de datos mediante lenguaje R.\nPara una adecuada personalización la cantidad máxima de cupos es limitada a 5 personas."
-  },
-  {
-    "objectID": "aprendeR/2026-01-26-taller-R/index.html#objetivo-general",
-    "href": "aprendeR/2026-01-26-taller-R/index.html#objetivo-general",
-    "title": "Curso personalizado: análisis de datos sociales usando R",
+    "objectID": "aprendeR/2026-03-31-taller-R/index.html#objetivo-general",
+    "href": "aprendeR/2026-03-31-taller-R/index.html#objetivo-general",
+    "title": "Análisis estadístico inicial con lenguaje de programación R+IA: curso personalizado",
     "section": "Objetivo general",
     "text": "Objetivo general\n\nAprender los fundamentos teóricos del análisis estadístico descriptivo y su aplicación en casos reales mediante lenguaje de programación R."
   },
   {
-    "objectID": "aprendeR/2026-01-26-taller-R/index.html#objetivos-específicos",
-    "href": "aprendeR/2026-01-26-taller-R/index.html#objetivos-específicos",
-    "title": "Curso personalizado: análisis de datos sociales usando R",
+    "objectID": "aprendeR/2026-03-31-taller-R/index.html#objetivos-específicos",
+    "href": "aprendeR/2026-03-31-taller-R/index.html#objetivos-específicos",
+    "title": "Análisis estadístico inicial con lenguaje de programación R+IA: curso personalizado",
     "section": "Objetivos específicos",
-    "text": "Objetivos específicos\n\nIdentificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación.\nManejar los conceptos básicos del análisis estadístico descriptivo.\nConocer los fundamentos de la programación orientada al análisis estadístico con R.\nDesarrollar de manera autónoma análisis estadístico descriptivo de bases de datos usando R, integrando el apoyo de herramientas de inteligencia artificial.\nDescribir e interpretar resultados de estadística descriptiva para contextos profesionales y académicos."
+    "text": "Objetivos específicos\n\nIdentificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación y las tendencias emergentes en IA.\nManejar los conceptos básicos del análisis estadístico descriptivo.\nConocer los fundamentos de la programación orientada al análisis estadístico con R.\nDesarrollar de manera autónoma análisis estadístico descriptivo de bases de datos usando R, integrando el apoyo de herramientas de inteligencia artificial.\nDescribir e interpretar resultados de estadística descriptiva para contextos profesionales y académicos."
+  },
+  {
+    "objectID": "aprendeR/2025-03-24-curso-intro-R/index.html#objetivo-general",
+    "href": "aprendeR/2025-03-24-curso-intro-R/index.html#objetivo-general",
+    "title": "Análisis estadístico inicial con lenguaje de programación R",
+    "section": "Objetivo general",
+    "text": "Objetivo general\n\nAprender los fundamentos teóricos del análisis estadístico descriptivo y su aplicación en casos reales mediante lenguaje de programación R."
+  },
+  {
+    "objectID": "aprendeR/2025-03-24-curso-intro-R/index.html#objetivos-específicos",
+    "href": "aprendeR/2025-03-24-curso-intro-R/index.html#objetivos-específicos",
+    "title": "Análisis estadístico inicial con lenguaje de programación R",
+    "section": "Objetivos específicos",
+    "text": "Objetivos específicos\n\nIdentificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación.\nManejar los conceptos básicos del análisis estadístico descriptivo.\nConocer los fundamentos de la programación orientada al análisis estadístico con R.\nDesarrollar de manera autónoma análisis estadístico descriptivo de bases de datos usando R.\nDescribir e interpretar resultados de estadística descriptiva para contextos profesionales y académicos."
   },
   {
     "objectID": "overview.html",
@@ -81,7 +60,7 @@
     "href": "posts.html",
     "title": "aprendeR",
     "section": "",
-    "text": "Guía rápida de instalación de R y RStudio\n\n\n\nCursos\n\nR\n\n\n\nTutorial para instalaciones iniciales\n\n\n\nFelipe Ruiz Bruzzone\n\n\nJul 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCurso personalizado: análisis de datos sociales usando R\n\n\n\nCursos\n\nR\n\n\n\nPrograma, cronograma y valores tentativos\n\n\n\nFelipe Ruiz Bruzzone\n\n\nFeb 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis estadístico inicial con lenguaje de programación R\n\n\n\nCursos\n\nR\n\n\n\nPrograma e inscripciones\n\n\n\nFelipe Ruiz Bruzzone\n\n\nAug 5, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Guía rápida de instalación de R y RStudio\n\n\n\nCursos\n\nR\n\n\n\nTutorial para instalaciones iniciales\n\n\n\nFelipe Ruiz Bruzzone\n\n\nMar 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis estadístico inicial con lenguaje de programación R+IA: curso personalizado\n\n\n\nCursos\n\nR\n\n\n\nPrograma, cronograma y tarifa\n\n\n\nFelipe Ruiz Bruzzone\n\n\nMar 30, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis estadístico inicial con lenguaje de programación R\n\n\n\nCursos\n\nR\n\n\n\nPrograma e inscripciones\n\n\n\nFelipe Ruiz Bruzzone\n\n\nAug 5, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "curriculum-es.html",
@@ -126,18 +105,32 @@
     "text": "Publicaciones recientes\n\n2025-Capitalist class structure in Chile (21st century): a descriptive and multivariate quantitative characterization. Forum for Social Economics, Special Issue on the Social Consequences of Development in Latin America in the 21st Century.\n2025-Metodología computacional para el análisis de información financiera en formato XBRL. Un primer esfuerzo aplicado a grupos económicos de Chile. En Investigación cuantitativa: estrategias metodológicas recientes para tesis doctorales en Ciencias Económicas y Sociales. Argentina: Editorial de la Facultad de Ciencias Económicas de la Universidad Nacional de Córdoba. Libro con referato.\n2024-¿Qué interrupciones del proyecto (intelectual y político) de la Unidad Popular siguen siendo relevantes para el presente?. En La Unidad Popular Interrumpida. Santiago de Chile: Ediciones de la Facultad de Ciencias Sociales de la Universidad de Chile. Autor. Libro con referato.\n2024-Solidaridad en el pilar contributivo de pensiones. Aproximación progresista para discutir la reforma. Documento de Política Pública. Friedrich Ebert Stiftüng y Fundación Nodo XXI. Coautor.\n2024-¿Qué hacer con los créditos y deudas estudiantiles? Condonar y reestructurar para recuperar la promesa de la educación superior. Documento de Política Pública. Fundación Nodo XXI. Coautor.\n2024-Financiarización y poder empresarial en el sistema de pensiones chileno. En Formas y mecanismos de la dominación financiera en América Latina. México: Instituto de Investigaciones Sociales de la Universidad Nacional Autónoma de México. Autor. Libro con referato.\n2023-The job of public transport, ride-hailing, and delivery drivers: Conditions during the COVID-19 pandemic and implications for a post-pandemic future. Travel, Behaviour, and Society, vol. 31, pages 63-77. Coautor.\n2021-Financialization and the construction of peripheral business power in the Chilean pension system. En Dependent Capitalisms in Contemporary Latin America and Europe. Palgrave Macmillan. Autor. Libro con referato.\n2019-RStudio para Estadística Descriptiva en Ciencias Sociales. 2a edición. Departmento de Sociología, Universidad de Chile. Manual online interactivo. Coautor."
   },
   {
-    "objectID": "aprendeR/2025-03-24-curso-intro-R/index.html#objetivo-general",
-    "href": "aprendeR/2025-03-24-curso-intro-R/index.html#objetivo-general",
-    "title": "Análisis estadístico inicial con lenguaje de programación R",
-    "section": "Objetivo general",
-    "text": "Objetivo general\n\nAprender los fundamentos teóricos del análisis estadístico descriptivo y su aplicación en casos reales mediante lenguaje de programación R."
+    "objectID": "aprendeR/202-03-30-instalaciones/index.html",
+    "href": "aprendeR/202-03-30-instalaciones/index.html",
+    "title": "Guía rápida de instalación de R y RStudio",
+    "section": "",
+    "text": "A continuación encontrarás las instrucciones para instalar R y RStudio, tanto para Windows como para macOS. En este enlace encontrarás un tutorial de instalación con capturas de pantalla.1"
   },
   {
-    "objectID": "aprendeR/2025-03-24-curso-intro-R/index.html#objetivos-específicos",
-    "href": "aprendeR/2025-03-24-curso-intro-R/index.html#objetivos-específicos",
-    "title": "Análisis estadístico inicial con lenguaje de programación R",
-    "section": "Objetivos específicos",
-    "text": "Objetivos específicos\n\nIdentificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación.\nManejar los conceptos básicos del análisis estadístico descriptivo.\nConocer los fundamentos de la programación orientada al análisis estadístico con R.\nDesarrollar de manera autónoma análisis estadístico descriptivo de bases de datos usando R.\nDescribir e interpretar resultados de estadística descriptiva para contextos profesionales y académicos."
+    "objectID": "aprendeR/202-03-30-instalaciones/index.html#versión-para-windows",
+    "href": "aprendeR/202-03-30-instalaciones/index.html#versión-para-windows",
+    "title": "Guía rápida de instalación de R y RStudio",
+    "section": "Versión para Windows",
+    "text": "Versión para Windows\n\nInstalar R\n\n\nAbre el navegador y accede al repositorio oficial de R: https://cran.r-project.org/.\nHaz clic en “Download R for Windows”.\nPulsa “base” y luego en “Download R 4.5.0 for Windows” (última versión).\nEjecuta el archivo .exe descargado.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”.\n\nSigue las instrucciones por defecto del asistente: aceptar licencia, ruta por defecto (p. ej. C:\\Program Files\\R\\R-4.x.x), opciones recomendadas.\n¡Listo!\n\n\nInstalar RStudio\n\n\nDesde tu explorador de internet abre: https://posit.co/download/rstudio-desktop/.\nBaja por la web hasta la tabla de instaladores: busca la línea Windows 10/11 bajo la columna OS, y haz click en el archivo .exe (p. ej. RStudio-2025.05.0-496.exe) para descargar el instalador de RStudio.\nEjecuta el archivo .exe descargado.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”.\n\nEjecuta el instalador y acepta las opciones por defecto.\n¡Listo!\n\n\nConfiguración adicional: Java offline\n\nPara prevenir incompatibilidades con tu sistema operativo, te sugiero instalar una versión de Java que no se actualiza automáticamente.\n\nDesde tu explorador de internet abre: https://www.java.com/es/download/manual.jsp\nBaja hasta la sección Windows y busca la opción que dice Windows Fuera de Línea (64 bits). Haz clic en el link y descarga el instalador.\nEjecuta el archivo .exe descargado.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”.\n\nEjecutar el instalador y acepta las opciones por defecto.\n¡Listo!\n\n\nPrimer arranque\n\n\nDesde tu menú de inicio, abre RStudio (no abras R).\nVerifica que en la consola aparezca el prompt &gt; de R. Debería verse en tu pantalla una sección como la que sigue:\n\n\n\n\nConsola R\n\n\n\nPuedes cerrar RStudio, ¡está todo correctamente instalado!"
+  },
+  {
+    "objectID": "aprendeR/202-03-30-instalaciones/index.html#versión-para-macos",
+    "href": "aprendeR/202-03-30-instalaciones/index.html#versión-para-macos",
+    "title": "Guía rápida de instalación de R y RStudio",
+    "section": "Versión para macOS",
+    "text": "Versión para macOS\n\nInstalar R\n\n\nDesde tu navegador de internet accede al repositorio oficial de R https://cran.r-project.org/.\nHaz clic en “Download R for macOS”.\nDescarga el instalador .pkg correspondiente a tu versión de macOS. Por ejemplo, para macOS 11 o superior, R-4.5.0-arm64.pkg\nAbre el archivo .pkg descargado y sigue las instrucciones del asistente: siguiente → aceptar licencia → instalar.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”\n\n¡Listo!\n\n\nInstalar RStudio\n\n\nDesde tu explorador de internet abre https://posit.co/download/rstudio-desktop/.\nBaja por la web hasta la tabla de instaladores: busca la línea macOS 13+ bajo la columna OS, y haz click en el archivo .dmg (p. ej. RStudio-2025.05.0-496.dmg) para descargar el instalador de RStudio.\n\nSi no seleccionaste una carpeta específica, este debería haber quedado en tu carpeta “descargas”\n\nAbre el archivo .dmg y arrastra el icono de RStudio a la carpeta Aplicaciones (*Applications**) para concretar la instalación.\nPara corroborar la correcta instalación de RStudio, puedes observar que el programa se encuentre disponible en el launchpad, en donde aparecen todas las aplicaciones instaladas en el computador.\n¡Listo!\n\n\nPrimer arranque\n\n\nDesde tu menú de inicio anda a Aplicaciones y abre RStudio (no abras R).\nVerifica que en la consola aparezca el prompt &gt; de R. Debería verse en tu pantalla una sección como la que sigue:\n\n\n\n\nConsola R\n\n\n\nPuedes cerrar RStudio, ¡está todo correctamente instalado!\n\n\nConsejo: Mantén R y RStudio actualizados revisando periódicamente las páginas de descarga. ¡Ya estás listo para comenzar a explorar R!"
+  },
+  {
+    "objectID": "aprendeR/202-03-30-instalaciones/index.html#footnotes",
+    "href": "aprendeR/202-03-30-instalaciones/index.html#footnotes",
+    "title": "Guía rápida de instalación de R y RStudio",
+    "section": "Notas",
+    "text": "Notas\n\n\nEs de hace algunos años y las versiones de los softwares están algo desactualizadas, pero todavía es útil.↩︎"
   },
   {
     "objectID": "curriculum-en.html",
