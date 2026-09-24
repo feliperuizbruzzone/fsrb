@@ -20,14 +20,25 @@ about:
 ---
 # Presentación
 
-¡Hola! Este sitio funciona principalmente como repositorio de mis actividades; tanto en el plano académico, profesional como en relación a otras actividades que me interesan. 
+¡Hola! Este sitio funciona principalmente como repositorio de mis actividades; tanto en el plano académico, profesional como en relación a otras actividades que me interesan. Recorriendo las secciones podrás acceder a una breve presentación sobre mi perfil, materiales de apoyo para mis cursos, principales publicaciones, entre otras.
 
-Recorriendo las secciones podrás acceder a una breve presentación sobre mi perfil, materiales de apoyo para mis cursos, principales publicaciones, entre otras.
+# Presentation
+
+Hi! This site serves primarily as a repository for my activities – whether academic, professional or related to other interests of mine. As you browse through the sections, you’ll find a brief introduction to my profile, reference materials for my courses, my main publications, and more.
 
 ---
 # Acerca de mí
-De formación inicial soy Sociólogo (Universidad de Chile) y profesionalmente me he especializado en el área de la Ciencia de Datos.
+De formación inicial soy Sociólogo (Universidad de Chile) y profesionalmente me he especializado en el área de la Ciencia de Datos, Métodos Computacionales e Inteligencia Artificial aplicada.
 
 En paralelo he seguido una carrera de formación académica. Soy Doctor en Ciencias Sociales por la Universidad de Chile, gracias al financiamiento de la Agencia Nacional de Investigación y Desarrollo (2021-2025). En 2019 me gradué del Magíster en Ciencias Sociales de la Universidad de Chile.
 
-Me involucro activamente en el debate público participando como investigador en la [Fundación Nodo XXI](https://www.nodoxxi.cl/). También soy Director Ejecutivo (CEO) de [Estrategia Sur](https://estrategiasur.cl/), una consultora en Ciencia de Datos para decisiones estratégicas.
+Cuento con diez años de experiencia en docencia universitaria e investigación social
+cuantitativa, aplicación de métodos mixtos y ciencia de datos aplicada a preguntas sociales, en diferentes países. Me involucro activamente en el debate público participando como investigador en la [Fundación Nodo XXI](https://www.nodoxxi.cl/). También soy Socio Fundador y Director de [Estrategia Sur](https://estrategiasur.cl/), una consultora en Ciencia de Datos e Inteligencia Artificial para decisiones estratégicas.
+
+# About
+
+My initial qualification is in Sociology (University of Chile) and, professionally, I have specialised in the fields of Data Science, Computational Methods and Applied Artificial Intelligence.
+
+At the same time, I have pursued a further academic training. I hold a PhD in Social Sciences from the University of Chile, thanks to funding from the National Agency for Research and Development (2021–2025). In 2019, I completed a Master’s degree in Social Sciences at the University of Chile.
+
+I have ten years’ experience in university teaching and quantitative social research, applying mixed-methods approaches and data science to social issues in various countries. I am actively involved in public debate, participating as a researcher at the [Fundación Nodo XXI](https://www.nodoxxi.cl/). I am also a Founding Partner and Director of [Estrategia Sur](https://estrategiasur.cl/), a consultancy specialising in data science and artificial intelligence for strategic decision-making.

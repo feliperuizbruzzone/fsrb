@@ -18,8 +18,8 @@ felipe.ruiz\@ug.uchile.cl
 ## Posiciones actuales
 **Director de Proyectos y Financiamiento** -- Jornada Parcial <br> *[Fundación Nodo XXI](https://www.nodoxxi.cl/)* [*2019 --- actualidad*]{.cvdate}
 
--   Organización no gubernamental que ofrece asesoría política y servicios de investigación a movimientos sociales y organizaciones políticas.
--   Integro la Dirección Ejecutiva de Nodo XXI y mis responsabilidades son tanto la implementación de proyectos de incidencia pública e investigación, como el mantenimiento de nuestras relaciones con socios y financistas internacionales.
+-   ONG cuyo  horizonte es la democratización social y política de la sociedad chilena para la construcción de un orden más justo, libre e igualitario.
+-   Integro la Dirección Ejecutiva de Nodo XXI y estoy a cargo de la cartera de proyectos de financiamiento internacional para investigación e incidencia, por un monto anual aproximado de USD 50.000.
 
 **Director Ejecutivo** -- Jornada Parcial <br> *[Estrategia Sur](https://estrategiasur.cl/)* [*2024 --- actualidad*]{.cvdate}
 
@@ -29,13 +29,22 @@ felipe.ruiz\@ug.uchile.cl
 ## Formación
 
 ### Profesional
+
+**[Summer Institute in Computational Social Sciences.](https://sicss.io/2026/buenos-aires/)** -- Especialización Profesional <br> *Instituto de Altos Estudios Sociales, Universidad Nacional de San Martín* [*2026*]{.cvdate}
+
+**[AI Specialization](https://anthropic.skilljar.com/)** -- Especialización Profesional <br> *Anthropic Academy* [*2026*]{.cvdate}
+
+**Análisis y síntesis de literatura científica usando inteligencia artificial generativa** -- Especialización Profesional <br> *Universidad Bernardo O'Higgins* [*2026*]{.cvdate}
+
+**Dominando ChatGPT para la escritura y adjudicación de proyectos de Investigación** -- Especialización Profesional <br> *Universidad Diego Portales* [*2025*]{.cvdate}
+
 **[Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/L53LGQM762N2)** -- Especialización Profesional <br> *John Hopkins University* [*2024*]{.cvdate}
 
 **[Instructor en Programación y Ciencia de Datos](https://carpentries.org/instructors/)** -- Especialización Profesional <br> *The Carpentries* [*2023*]{.cvdate}
 
-**Program of Advanced Studies on Latin American Economies** -- Especialización Profesional <br> *Comisión Económica para América Latina, Naciones Unidas* [*2023*]{.cvdate}
+**[Program of Advanced Studies on Latin American Economies](https://elades.cepal.org/en)** -- Especialización Profesional <br> *Comisión Económica para América Latina, Naciones Unidas* [*2023*]{.cvdate}
 
-**Summer School in Computational Social Sciences, Methods for Analysing Multimedia Data** -- Especialización Profesional <br> *GESIS Leibniz Institute for The Social Sciences* [*2019*]{.cvdate}
+**[Summer School in Computational Social Sciences, Methods for Analysing Multimedia Data](https://www.gesis.org/en/research/projects-and-exchange/conferences/events-archive/css-events)** -- Especialización Profesional <br> *GESIS Leibniz Institute for The Social Sciences* [*2019*]{.cvdate}
 
 ### Académica
 
@@ -59,26 +68,34 @@ felipe.ruiz\@ug.uchile.cl
 
 Presto servicios de recopilación, preprocesamiento, análisis estadístico y visualización de datos a distintos clientes del sector privado, científico y académico. Los últimos proyectos en los que he participado fueron:
 
--   actualidad-2025. *Sistematización Computacional de Estadísticas Tributarias según rama económica (2023-1998), en base a informes anuales de la administración Federal de Ingresos Públicos de Argentina*. Instituto de Ciencias, Universidad Nacional de General Sarmiento. *Proyecto PICT-2020-SERIE-A-00496*.
--   2024-2023. *Validación de registros administrativos y construcción de resultados de estadística: estructura ocupacional del Gobierno Central de Chile*. Facultad de Derecho, Universidad Alberto Hurtado. *Fondo Nacional de Desarrollo Científico y Tecnológico* (ID 1231868).
+-   2026-2026. *Tipo de cambio y perspectivas del desarrollo industrial en Uruguay (2000 a la actualidad)*. Cuesta Duarte, Instituto de Investigación y Formación del PIT-CNT. *Proyecto financiado por INEFOP*. [Reporte digital](https://feliperuizbruzzone.github.io/economia-uruguay/) y [Repositorio reproducible](https://doi.org/10.5281/zenodo.22431771)
+-   2026-2025. *Sistematización Computacional de Estadísticas Tributarias según rama económica (2023-1998), en base a informes anuales de la administración Federal de Ingresos Públicos de Argentina*. Instituto de Ciencias, Universidad Nacional de General Sarmiento. *Proyecto PICT-2020-SERIE-A-00496*. [Repositorio reproducible](https://doi.org/10.5281/zenodo.22431875)
+-   2024-2023. *Validación de registros administrativos y construcción de resultados de estadística: estructura ocupacional del Gobierno Central de Chile*. Facultad de Derecho, Universidad Alberto Hurtado. *Fondo Nacional de Desarrollo Científico y Tecnológico* (ID 1231868). [Reporte digital](https://rpubs.com/felipesruizb/gobierno-central).
 -   2021-2022. *Validación, documentación y publicación de bases de datos en formato reproducible*.  Facultad de Ciencias Sociales, Universidad Diego Portales. *Fondo Nacional de Desarrollo Científico y Tecnológico* (ID 1171072).
 
 
-### Docencia en Métodos de Investigación y Ciencia de Datos
+### Docencia Universitaria y Profesional
 
-***Profesor y Asistente de Docencia***  <br> *Diferentes instituciones*[*2016 -- actualidad*]{.cvdate}
+***Docente responsable y Asistente de Docencia***  <br> *Diferentes instituciones*[*2016 -- actualidad*]{.cvdate}
 
-Experiencia como docente en *Ciencia de Datos* y *Métodos de Investigación* en diferentes contextos educativos: universidades (grado y posgrado), especializaciones profesionales y clases particulares. He impartido cursos sobre:
+Experiencia como docente en *teoría social*, *estratificación social*, *políticas públicas*, *Metodología de Investigación*, *Análisis Estadístico*, *Ciencia de Datos*, *Métodos Computacionales* e *Inteligencia Artificial Aplicada* en diferentes contextos educativos: universidades (grado y posgrado), especializaciones profesionales y clases particulares. He impartido cursos sobre:
 
+- *Teoría Social* latinoamericana y chilena.
+- *Estratificación y clases sociales* en América Latina.
+- Análisis de *Políticas Públicas* del campo social y económico,
 - Fundamentos del lenguaje de programación *R*.
 - Diseños de investigación en el ámbito de las ciencias sociales, económicas y humanas.
-- Introducción a proyectos de investigación de *Ciencia de Datos*.
+- Proyectos de investigación basados en *Ciencia de Datos*.
 - Métodos *estadísticos* básicos y avanzados para las Ciencias Sociales.
 - Herramientas desde la *Ciencia Abierta* y el *Software Libre* para la Investigación Social.
+- Introducción a las *Ciencias Sociales Computacionales*.
+- *Inteligencia Artificial Aplicada* a investigación socioeconómica
 
 ## Trabajos en curso
-- 2026-[Transformaciones en la reproducción de la población de Petorca (Chile) y la disputa por el agua durante la expansión de la frontera agrícola (1990-2022)](). Borrador en preparación para [Waterlat-Gobacit Network Working Papers](https://waterlat.org/working-papers-series/). Co-autoría con: Javiera Rojas Cifuentes.
-- 2026-[La Nueva Izquierda en el gobierno: límites, desafíos y aprendizajes](). Santiago de Chile: Fondo de Cultura Económica. Coautor de libro con referato.
+- 2027-[La Nueva Izquierda en el gobierno: límites, desafíos y aprendizajes](). Santiago de Chile: Fondo de Cultura Económica. Coautor de libro con referato.
+- 2027-[Trabajo y pensiones: avances y desafíos](). En [La Nueva Izquierda en el gobierno: límites, desafíos y aprendizajes](). Santiago de Chile: Fondo de Cultura Económica. Libro con referato.
+- 2027-[Conducir el desarrollo productivo: dos experiencias dispares](). En [La Nueva Izquierda en el gobierno: límites, desafíos y aprendizajes](). Santiago de Chile: Fondo de Cultura Económica. Libro con referato.
+- 2026-[Transformaciones en la reproducción de la población de Petorca (Chile) y la disputa por el agua durante la expansión de la frontera agrícola (1990-2022)](https://doi.org/10.31235/osf.io/m7hfq_v1). Borrador aceptado en [Waterlat-Gobacit Network Working Papers](https://waterlat.org/working-papers-series/). Co-autoría con: Javiera Rojas Cifuentes.
 - 2026-[International expansion and wealth capture in Chilean economic groups during the 21st century](). Borrador en preparación para [Socioeconomic Review](https://academic.oup.com/ser).
 - 2026-[Estadística Descriptiva para la investigación en Comunicación y Ciencias Sociales. Una breve introducción](). En [Metodología de Investigación en Comunicación y Opinión Pública](). Santiago de Chile: Ediciones Universidad Diego Portales. Libro con referato.
 

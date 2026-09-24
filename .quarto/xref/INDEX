@@ -1,0 +1,28 @@
+{
+  "index.qmd": {
+    "index.html": "abb81e18"
+  },
+  "curriculum-en.qmd": {
+    "curriculum-en.html": "aad92a92",
+    "curriculum-en.pdf": "82b7c49f"
+  },
+  "curriculum-es.qmd": {
+    "curriculum-es.html": "f5ac9b42",
+    "curriculum-es.pdf": "d2fb2b7b"
+  },
+  "overview.qmd": {
+    "overview.html": "dcf06972"
+  },
+  "posts.qmd": {
+    "posts.html": "f2b61ca4"
+  },
+  "aprendeR/202-03-30-instalaciones/index.qmd": {
+    "index.html": "2e810af0"
+  },
+  "aprendeR/2025-03-24-curso-intro-R/index.qmd": {
+    "index.html": "1a8988a1"
+  },
+  "aprendeR/2026-03-31-taller-R/index.qmd": {
+    "index.html": "2ce5482c"
+  }
+}

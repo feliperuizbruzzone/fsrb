@@ -17,24 +17,32 @@ felipe.ruiz\@ug.uchile.cl
 ## Current positions
 **Project and Funding Director** -- Half-time <br> *[Nodo XXI Foundation](https://www.nodoxxi.cl/)* [*2019 --- present*]{.cvdate}
 
--   Nongovernmental organization that provides political advice and research capabilities to social movements and political organizations.
--   Member of the executive management team and responsible for both the implementation of advocacy and research projects and the relationship with international partners.
+-   An NGO whose aim is the social and political democratisation of Chilean society, with a view to building a fairer, freer and more egalitarian society.
+-   I am a member of the Executive Board of Nodo XXI and am responsible for the portfolio of international funding projects for research and advocacy, totalling approximately USD 50,000 per year.
 
 **Chief Executive Officer** -- Half-time <br> *[Estrategia Sur](https://estrategiasur.cl/)* [*2024 --- present*]{.cvdate}
 
 -   Consulting firm specialised in data science for strategic decision-making.
--   Founding partner and responsible for general administrative and commercial management.
+-   Founding partner and as CEI I am responsible for general administrative and commercial management.
 
 ## Education
 
 ### Professional
+**[Summer Institute in Computational Social Sciences.](https://sicss.io/2026/buenos-aires/)** -- Profesional Specialization <br> *Institute of Advanced Social Studies, National University of San Martín* [*2026*]{.cvdate}
+
+**[AI Specialization](https://anthropic.skilljar.com/)** -- Profesional Specialization <br> *Anthropic Academy* [*2026*]{.cvdate}
+
+**Analysis and synthesis of scientific literature using generative artificial intelligence** -- Profesional Specialization <br> *Bernardo O'Higgins University* [*2026*]{.cvdate}
+
+**Mastering ChatGPT for Writing and Awarding Research Projects** -- Profesional Specialization <br> *Diego Portales University* [*2025*]{.cvdate}
+
 **[Data Science](https://www.coursera.org/account/accomplishments/specialization/L53LGQM762N2)** -- Profesional Specialization <br> *John Hopkins University* [*2024*]{.cvdate}
 
 **[Programming & Data Science Instructor](https://carpentries.org/instructors/)** -- Profesional Specialization <br> *The Carpentries* [*2023*]{.cvdate}
 
-**Program of Advanced Studies on Latin American Economies** -- Profesional Specialization <br> *UN Economic Commission for Latin America and the Caribbean* [*2023*]{.cvdate}
+**[Program of Advanced Studies on Latin American Economies](https://elades.cepal.org/en)** -- Profesional Specialization <br> *UN Economic Commission for Latin America and the Caribbean* [*2023*]{.cvdate}
 
-**Summer School in Computational Social Sciences, Methods for Analysing Multimedia Data** -- Profesional Specialization <br> *GESIS Leibniz Institute for The Social Sciences* [*2019*]{.cvdate}
+**[Summer School in Computational Social Sciences, Methods for Analysing Multimedia Data](https://www.gesis.org/en/research/projects-and-exchange/conferences/events-archive/css-events)** -- Profesional Specialization <br> *GESIS Leibniz Institute for The Social Sciences* [*2019*]{.cvdate}
 
 ### Academic
 **PhD -- Social Sciences** <br> *University of Chile* [*2026*]{.cvdate}
@@ -57,26 +65,34 @@ felipe.ruiz\@ug.uchile.cl
 
 Providing data collection, pre-processing, statistical analysis and data visualization services to different clients of the private, scientific and academic sector. The last projects I was involved were:
 
--   present-2025. *Computational systematisation of tax statistics by economic sector (2023-1998), based on annual reports from Argentina's Federal Public Revenue Administration*. Instituto de Ciencias, Universidad Nacional de General Sarmiento. *PICT-2020-SERIE-A-00496*.
--   2024-2023. *Validation of administrative records and statistical analysis: occupational structure of Chile’s Central Government*. Law Faculty, Alberto Hurtado University. *National Fund for Scientific and Technological Development* (grant 1231868).
+-   2026-2026. *Exchange rates and prospects for industrial development in Uruguay (2000 to the present)*. Cuesta Duarte, PIT-CNT Institute for Research and Training. *Project funded by INEFOP*. [Digital report](https://feliperuizbruzzone.github.io/economia-uruguay/) & [Reproducible repository](https://doi.org/10.5281/zenodo.22431771).
+-   2026-2025. *Computational systematisation of tax statistics by economic sector (2023-1998), based on annual reports from Argentina's Federal Public Revenue Administration*. Instituto de Ciencias, Universidad Nacional de General Sarmiento. *PICT-2020-SERIE-A-00496*. [Reproducible repository](https://doi.org/10.5281/zenodo.22431875)
+-   2024-2023. *Validation of administrative records and statistical analysis: occupational structure of Chile’s Central Government*. Law Faculty, Alberto Hurtado University. *National Fund for Scientific and Technological Development* (grant 1231868). [Digital report](https://rpubs.com/felipesruizb/gobierno-central).
 -   2021-2022. *Validation and preparation of databases in reproducible format*.  Faculty of Social Sciences, Diego Portales University. *National Fund for Scientific and Technological Development* (grant 1171072).
 
 
-### Data Science and Research Methods Teaching
+### Academic & Professional Teaching
 
 ***Lecturer & Teaching assistant***  <br> *Different institutions*[*2016 -- Present*]{.cvdate}
 
-Teaching experience in *data science* and *research methods* in different educational contexts: universities (grade and posgraduate courses), professional specializations and particular lessons. My experience as lecturer includes:
+Teaching experience in *social theory*, *social stratification*, *public policies*, *research methods*, *statistical analysis*, *data science*, *computational methods* and *applied artificial intelligence* in different educational contexts: universities (grade and posgraduate courses), professional specializations and particular lessons. I have taught courses on:
 
+-   Latin American and Chilean *Social Theory*.
+-   *Social stratification and social classes* in Latin America.
+-   Analysis of *Public Policy* in the social and economic spheres,
 -   Foundations of the *R* programming language.
 -   Research methods in the field of social sciences, economics and humanities.
 -   Introduction to *data driven* research projects.
 -   Basic and advanced *statistical methods* in Social Sciences.
 -   *Open Science* and *Free Software* Tools for Quantitative Social Research.
+-   An Introduction to *Computational Social Sciences*.
+-   *Artificial Intelligence* applied to socio-economic research.
 
 ## Work in progress
-- 2026-[Transformations in the reproduction of the population of Petorca (Chile) and the dispute over water during the expansion of the agricultural frontier (1990–2022)](). Draft in progress for [Waterlat-Gobacit Network Working Papers](https://waterlat.org/working-papers-series/). Co-authored with: Javiera Rojas Cifuentes.
-- 2026-[The chilean New Left in Government: Limits, Challenges and Lessons](). Santiago de Chile: Fondo de Cultura Económica. Co-author. Peer-reviewed book.
+- 2027-[The chilean New Left in Government: Limits, Challenges and Lessons](). Santiago de Chile: Fondo de Cultura Económica. Co-author. Peer-reviewed book.
+- 2027-[Work and pensions: progress and challenges](). In [The chilean New Left in Government: Limits, Challenges and Lessons.](). Santiago de Chile: Fondo de Cultura Económica. Peer-reviewed book.
+- 2027-[Leading productive development: two contrasting experiences](). In [The chilean New Left in Government: Limits, Challenges and Lessons.](). Santiago de Chile: Fondo de Cultura Económica. Peer-reviewed book.
+- 2026-[Transformations in the reproduction of the population of Petorca (Chile) and the dispute over water during the expansion of the agricultural frontier (1990–2022)](https://doi.org/10.31235/osf.io/m7hfq_v1). Draft accepted in [Waterlat-Gobacit Network Working Papers](https://waterlat.org/working-papers-series/). Co-authored with: Javiera Rojas Cifuentes.
 - 2026-[Descriptive Statistics for Research in Communication and Social Sciences. A Brief Introduction](). In [Research Methodology in Communication and Public Opinion.](). Santiago de Chile: Ediciones Universidad Diego Portales. Peer-reviewed book.
 - 2026-[International expansion and wealth capture in Chilean economic groups during the 21st century](). Draft in progress for [Socioeconomic Review](https://academic.oup.com/ser).
 

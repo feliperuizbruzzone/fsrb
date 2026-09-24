@@ -9,22 +9,26 @@ about:
     - text: Resume (ES)
       href: https://feliperuizbruzzone.github.io/fsrb/curriculum-es.html
     - text: Academic CV
-      href: https://drive.google.com/file/d/1ZY5Mt1UrVKzlnYPeo53pCGxG9opJf-Hx/view?usp=sharing
+      href: https://drive.google.com/file/d/1DTfto53ro44X5ZUCENj1mn8HvwIckQtl/view?usp=drive_link
     - text: CV Académico
-      href: https://drive.google.com/file/d/1Sti4_Wlqk6yvLC4JFIQZyVyzQEbbWIS9/view?usp=sharing 
+      href: https://drive.google.com/file/d/12t--oD_5If73pF1y72VpwuMr1wA9mJUX/view?usp=sharing 
       
 ---
 
 ## Presentación general
 
-Soy Doctor en Ciencias Sociales (2026), Magíster en Ciencias Sociales (2019) y Sociólogo (2016) por la Universidad de Chile. En términos temáticos mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación que vincule el estudio empírico de los modelos de acumulación y crecimiento, junto con el análisis de la diferenciación de la clase capitalista y las políticas públicas. Tengo amplia experiencia liderando proyectos de investigación socioeconómica de orientación metodológica cuantitativa y mixta.
+Soy Doctor (2026), Magíster (2019) y Sociólogo (2016) por la Universidad de Chile. Mis intereses de investigación se desarrollan en la intersección entre la sociología y la economía. Me interesa particularmente una agenda de investigación centrada en el estudio empírico del desarrollo social y económico, las políticas públicas, las clases sociales, los estudios laborales, los métodos computacionales y el uso aplicado de IA para la investigación social.
 
-En términos técnicos, tengo una sólida formación en el área de Ciencia de Datos. En 2019 participé como coautor de la publicación [RStudio para Estadística Descriptiva en Ciencias Sociales](https://bookdown.org/gboccardo/manual-ED-UCH/). Desde 2023 soy instructor certificado en Ciencia de Datos usando R (The Carpentries) y en 2024 aprobé la especialización profesional en Ciencia de Datos (John Hopkins University). He participado como docente en el área de metodología cuantitativa y programación en R en diferentes universidades (pregrado y posgrado), tanto en Chile como en el extranjero. 
+Cuento con diez años de experiencia en docencia universitaria y en investigación social básica y aplicada en varios países. He dictado cursos de pre y posgrado en metodología de investigación social, análisis estadístico, ciencia de datos e inteligencia artificial aplicada a preguntas sociales. Tengo amplia experiencia liderando equipos interdisciplinarios de investigación socioeconómica de orientación metodológica cuantitativa, computacional y mixta.
+
+En términos técnicos, tengo una sólida trayectoria de formación continua en el área de Métodos Computacionales, Ciencia de Datos e Inteligencia Artificial. En 2019 participé como coautor de la publicación [RStudio para Estadística Descriptiva en Ciencias Sociales](https://bookdown.org/gboccardo/manual-ED-UCH/).
 
 ---
 
 ## Overview
 
-I hold a PhD in Social Sciences (2026), a MSc degree in Social Sciences (2019) and a degree in Sociology (2016) from the University of Chile. In thematic terms my research interests lie at the intersection between sociology and economics. I am particularly interested in a research agenda that links the empirical study of accumulation and growth patterns with the analysis of capitalist class differentiation and public policies. I have extensive experience leading quantitative and mixed-oriented socio-economic research projects.
+I hold a PhD (2026), an MSc (2019) and a BA (2016) in Sociology from the University of Chile. My research interests develop at the intersection of sociology and economics. I am particularly interested in a research agenda centred on the empirical study of social and economic development, public policy, social classes, labour studies, computational methods and the applied use of AI in social research.
 
-In technical terms, I have a strong background in the area of Data Science. In 2019 I participated as co-author of the publication [RStudio for Descriptive Statistics in the Social Sciences](https://bookdown.org/gboccardo/manual-ED-UCH/). Since 2023 I am a certified instructor in Data Science using R (The Carpentries) and in 2024 I completed the professional specialization in Data Science (John Hopkins University). I have participated as a lecturer in the area of quantitative methodology and programming in R in different universities (undergraduate and postgraduate), both in Chile and abroad.
+I have ten years’ experience in university teaching and in basic and applied social research across several countries. I have taught undergraduate and postgraduate courses in social research methodology, statistical analysis, data science and artificial intelligence applied to social research. I have extensive experience leading interdisciplinary socio-economic research teams employing quantitative, computational and mixed-methods approaches.
+
+In technical terms, I have a solid track record of continuous training in the areas of computational methods, data science and artificial intelligence. In 2019, I co-authored the publication [RStudio for Descriptive Statistics in the Social Sciences](https://bookdown.org/gboccardo/manual-ED-UCH/).
