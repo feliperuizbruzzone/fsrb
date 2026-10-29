@@ -81,7 +81,7 @@
     "href": "posts.html",
     "title": "aprendeR",
     "section": "",
-    "text": "Guía rápida de instalación de R y RStudio\n\n\n\nCursos\n\nR\n\n\n\nTutorial para instalaciones iniciales\n\n\n\nFelipe Ruiz Bruzzone\n\n\nSep 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis estadístico inicial con lenguaje de programación R+IA: curso personalizado\n\n\n\nCursos\n\nR\n\n\n\nPrograma, cronograma y tarifa\n\n\n\nFelipe Ruiz Bruzzone\n\n\nSep 24, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis estadístico inicial con lenguaje de programación R\n\n\n\nCursos\n\nR\n\n\n\nPrograma e inscripciones\n\n\n\nFelipe Ruiz Bruzzone\n\n\nAug 5, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Alfabetización en Inteligencia Artificial Generativa\n\n\n\nCursos\n\nIA\n\n\n\nFundamentación, objetivos y contenidos\n\n\n\nFelipe Ruiz Bruzzone\n\n\nOct 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuía rápida de instalación de R y RStudio\n\n\n\nCursos\n\nR\n\n\n\nTutorial para instalaciones iniciales\n\n\n\nFelipe Ruiz Bruzzone\n\n\nOct 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis estadístico inicial con lenguaje de programación R+IA: curso personalizado\n\n\n\nCursos\n\nR\n\n\n\nPrograma, cronograma y tarifa\n\n\n\nFelipe Ruiz Bruzzone\n\n\nOct 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis estadístico inicial con lenguaje de programación R\n\n\n\nCursos\n\nR\n\n\n\nPrograma e inscripciones\n\n\n\nFelipe Ruiz Bruzzone\n\n\nAug 5, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "curriculum-en.html",
@@ -173,5 +173,26 @@
     "title": "Análisis estadístico inicial con lenguaje de programación R+IA: curso personalizado",
     "section": "Objetivos específicos",
     "text": "Objetivos específicos\n\nIdentificar la relevancia contemporánea de las herramientas de análisis de datos mediante programación y las tendencias emergentes en IA.\nManejar los conceptos básicos del análisis estadístico descriptivo.\nConocer los fundamentos de la programación orientada al análisis estadístico con R.\nDesarrollar de manera autónoma análisis estadístico descriptivo de bases de datos usando R, integrando el apoyo de herramientas de inteligencia artificial.\nDescribir e interpretar resultados de estadística descriptiva para contextos profesionales y académicos."
+  },
+  {
+    "objectID": "aprendeR/2026-10-29-alfabetizacion-IA/index.html",
+    "href": "aprendeR/2026-10-29-alfabetizacion-IA/index.html",
+    "title": "Alfabetización en Inteligencia Artificial Generativa",
+    "section": "",
+    "text": "La inteligencia artificial generativa (IAG) se ha instalado en la vida universitaria a una velocidad mayor que la capacidad de las instituciones para comprenderla, orientarla y aprovecharla. Estudiantes, docentes e investigadores ya la utilizan cotidianamente para leer, escribir, buscar información, preparar clases o analizar datos, mientras buena parte de las universidades carece de criterios compartidos sobre sus usos, límites y riesgos. Esta brecha entre adopción y alfabetización se traduce en prácticas desiguales y poco reflexionadas, y a la vez desaprovecha un potencial concreto de mejora del trabajo académico.\nLas preguntas que plantea la IAG atraviesan las tres actividades que definen a una comunidad universitaria:\n\nDocencia: cómo preservar el sentido formativo de actividades y evaluaciones, cómo orientar a estudiantes hacia un uso transparente y cómo apoyarse en estas herramientas sin delegar el criterio pedagógico.\nEstudio: cómo usar la IA para comprender, sintetizar y ejercitar sin sustituir el aprendizaje, cómo reconocer información errónea o referencias inexistentes y qué significa la autoría de un trabajo elaborado con asistencia de IA.\nInvestigación: cómo buscar y sistematizar bibliografía, analizar información cuantitativa y cualitativa o automatizar tareas repetitivas, resguardando la validez de los resultados, la privacidad de los datos y la integridad científica.\n\nLa IA conversacional evoluciona continuamente y su uso requiere criterio profesional y disciplina operativa: saber qué es y qué no es, cuándo confiar en sus resultados y cuándo verificarlos, qué información compartir y cuál resguardar. Por eso, más que enseñar a manejar un producto específico, esta propuesta busca desarrollar comprensión conceptual y criterios de uso transferibles entre herramientas, combinados con práctica aplicada a las tareas reales de cada participante.\nLa propuesta tiene un doble propósito: formar a las y los participantes en un uso efectivo y responsable de la IAG, y producir un insumo institucional que sistematice las necesidades formativas de cada comunidad, útil para orientar políticas y acciones de formación de mediano plazo. Se basa en materiales ya probados en cursos de posgrado en ciencias sociales computacionales y en talleres de IA aplicada para profesionales de distintas áreas, y en la lógica de aprender haciendo."
+  },
+  {
+    "objectID": "aprendeR/2026-10-29-alfabetizacion-IA/index.html#objetivo-general",
+    "href": "aprendeR/2026-10-29-alfabetizacion-IA/index.html#objetivo-general",
+    "title": "Alfabetización en Inteligencia Artificial Generativa",
+    "section": "Objetivo general",
+    "text": "Objetivo general\n\nIntroducir a las y los participantes en las características de funcionamiento, los modos de uso y los dilemas éticos de la IAG, entregando criterios para su uso efectivo y responsable en la docencia, el estudio y la investigación."
+  },
+  {
+    "objectID": "aprendeR/2026-10-29-alfabetizacion-IA/index.html#objetivos-específicos",
+    "href": "aprendeR/2026-10-29-alfabetizacion-IA/index.html#objetivos-específicos",
+    "title": "Alfabetización en Inteligencia Artificial Generativa",
+    "section": "Objetivos específicos",
+    "text": "Objetivos específicos\n\nComprender la lógica general de funcionamiento de los modelos extensos de lenguaje (LLM) —predicción de texto, ventana de contexto, fecha de corte— y sus implicancias para la precisión y la verificación de la información.\nDistinguir modos de uso según el tipo de tarea y estructurar instrucciones (prompts) mediante el método COSTAR y el uso de insumos propios.\nIncorporar criterios de verificación, privacidad, transparencia e integridad académica al trabajo cotidiano.\nReconocer dilemas éticos y tensiones contemporáneas asociadas a la IA: trabajo, concentración de poder, desinformación e investigación con datos digitales.\nAplicar los aprendizajes a casos reales del propio trabajo de docencia, estudio o investigación.\nIdentificar y sistematizar colectivamente las necesidades formativas en IA de la comunidad participante."
   }
 ]
